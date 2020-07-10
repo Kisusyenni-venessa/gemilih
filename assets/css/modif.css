@@ -1,0 +1,14 @@
+/* 
+Main Color
+Red #F7444E
+White #FFFFFF
+
+Font
+font-family: 'Bangers', cursive; --> header
+font-family: 'Permanent Marker', cursive; --> header
+font-family: 'Open Sans', sans-serif; --> text
+*/
+/* Navigation Bar */
+.lawFirm--navbar-cover.sticky, .lawFirm--page-title, .lawFirm--page-title:before {
+    background-color: #F7444E;
+}
