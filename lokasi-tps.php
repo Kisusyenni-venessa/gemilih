@@ -25,7 +25,7 @@
         <div class="lawFirm--contact pt-120">
             <div class="container">
                 <div class="lawFirm--section-title text-left">
-                    <h2> Let Us Know What’s Your <br> Problem <span></span></h2>
+                    <h2> Lokasi TPS di Batam<span></span></h2>
                 </div>
                 
                 <!-- Start Map -->
