@@ -1,44 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <!-- Document Title -->
-    <title>Adalot</title>
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
-
-    <!--==== Google Fonts ====-->
-    <link href="https://fonts.googleapis.com/css?family=Nunito%7CPlayfair+Display:400,700%7CYantramanav:400,700" rel="stylesheet">  
-
-    <!-- CSS Files -->
-
-    <!--==== Bootstrap css file ====-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-
-    <!--==== Font-Awesome css file ====-->
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-
-    <!--==== Owl Carousel css file ====-->
-    <link rel="stylesheet" href="assets/plugins/owl-carousel/owl.carousel.min.css">
-
-    <!--==== Nice Select css file ====-->
-    <link rel="stylesheet" href="assets/plugins/nice-select/nice-select.css">
-
-    <!--==== Style css file ====-->
-    <link rel="stylesheet" href="assets/css/style.css">
-
-    <!--==== Responsive css file ====-->
-    <link rel="stylesheet" href="assets/css/responsive.css">
-
-    <!--==== Custom css file ====-->
-    <link rel="stylesheet" href="assets/css/custom.css">
-</head>
-<body>
-
 <?php include_once("parts/head.php")?>
 <body>
 
@@ -53,8 +14,8 @@
     <!-- Page title -->
     <div class="lawFirm--page-title text-center lawFirm--bg-center" data-bg-img="assets/images/page-title-bg.png">
         <div class="container">
-            <h2 class="pb-20">Contact Us</h2>
-            <div class="title-bc"> <a href="#">Home</a> > <span>Contact Us </span></div>
+            <h2 class="pb-20">Hubungi Kami</h2>
+            <div class="title-bc"> <a href="#">Beranda</a> > <span>Hubungi Kami</span></div>
         </div>
     </div>
     <!-- End of Page title -->
@@ -70,36 +31,37 @@
                 <div class="col-lg-5 pb-30">
                     <ul class="nav nav-pills">
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">New York Office</a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Kantor KPU Batam</a>
                             <div class="dropdown-menu">
 
-                                <a class="nav-link" id="new-york-area" data-toggle="tab" href="#new-york" aria-expanded="true" aria-controls="new-york">New York</a>
+                                <a class="nav-link" id="batam-area" data-toggle="tab" href="#batam" aria-expanded="true" aria-controls="batam">KPU Batam</a>
 
-                                <a class="nav-link" id="hong-kong-area" data-toggle="tab" href="#hong-kong" aria-expanded="false" aria-controls="hong-kong">Hong Kong</a>
+                                <a class="nav-link" id="kepri-area" data-toggle="tab" href="#kepri" aria-expanded="false" aria-controls="kepri">KPU Kepri</a>
                                 
-                                <a class="nav-link" id="chicago-area" data-toggle="tab" href="#chicago" aria-expanded="false" aria-controls="chicago">Chicago</a>
+                                <a class="nav-link" id="pusat-area" data-toggle="tab" href="#pusat" aria-expanded="false" aria-controls="pusat">KPU Pusat</a>
                             </div>
                         </li>
                     </ul>
 
                     <div class="tab-content" id="myTabContent">
                         <!-- New York -->
-                        <div class="tab-pane fade show active" id="new-york" role="tabpanel" aria-labelledby="new-york-area">
+                        <div class="tab-pane fade show active" id="batam" role="tabpanel" aria-labelledby="batam-area">
+                            <strong class="mb-10">KPU KOTA BATAM</strong>
                             <ul class="lawFirm--conact-options">
                                 <li class="mb-10">
                                     <i class="fa fa-map-marker"></i> 
-                                    <strong> Address </strong>
-                                    <p>3173 Forest Avenue New York 10013 United States</p>
+                                    <strong>Alamat</strong>
+                                    <p>Tj. Pinggir, Kec. Sekupang, Kota Batam, Kepulauan Riau</p>
                                 </li>
                                 <li class="mb-10">
                                     <i class="fa fa-phone"></i> 
                                     <strong> Phone </strong>
-                                    <p>+1212-446-4400  &  +1212-446-8800</p>
+                                    <p>+62-778-8011-963</p>
                                 </li>
                                 <li class="mb-10">
                                     <i class="fa fa-envelope"></i> 
                                     <strong> Email </strong> 
-                                    <p>youremail@mailcom  &  info@gmail.com</p>
+                                    <p>info@batam.kpu.go.id</p>
                                 </li>
                             </ul>
                             <!-- End of Contact Options -->
@@ -107,32 +69,38 @@
                             <!-- Social Links -->
                             <div class="lawFirm--contact-social-links">
                                 <span><i class="fa fa-globe"></i> Follow us </span>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
+                                <a href="https://www.facebook.com/KPURepublikIndonesia/"><i class="fa fa-facebook"></i></a>
+                                <a href="https://twitter.com/KPU_ID"><i class="fa fa-twitter"></i></a>
+                                <a href="https://www.instagram.com/kpu_ri/"><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.youtube.com/channel/UCVdSz86o9q2cQKvAQ5QhOYg"><i class="fa fa-youtube"></i></a>
                             </div>
                             <!-- End of Social Links -->
                         </div>
                         <!-- End of New York -->
 
-                        <!-- Hong Kong -->
-                        <div class="tab-pane" id="hong-kong" role="tabpanel" aria-labelledby="hong-kong-area">
+                        <!-- Kepulauan Riau-->
+                        <div class="tab-pane" id="kepri" role="tabpanel" aria-labelledby="kepri-area">
+                            <strong class="mb-10">KPU PROVINSI KEPULAUAN RIAU</strong>
                             <ul class="lawFirm--conact-options">
                                 <li class="mb-10">
                                     <i class="fa fa-map-marker"></i> 
-                                    <strong> Address </strong>
-                                    <p>Larch Street Tai Kok Tsui Kowloon 852 Hong Kong</p>
+                                    <strong>Alamat</strong>
+                                    <p>Jl. Basuki Rahmat No. 28 - 29 Tanjungpinang - Kepulauan Riau Kode Pos 29124</p>
                                 </li>
                                 <li class="mb-10">
                                     <i class="fa fa-phone"></i> 
-                                    <strong> Phone </strong>
-                                    <p>+1212-446-4400  &  +1212-446-8800</p>
+                                    <strong>Telepon</strong>
+                                    <p>+62-771-318242</p>
+                                </li>
+                                <li class="mb-10">
+                                    <i class="fa fa-fax"></i> 
+                                    <strong> Fax </strong>
+                                    <p>+62-771318241</p>
                                 </li>
                                 <li class="mb-10">
                                     <i class="fa fa-envelope"></i> 
                                     <strong> Email </strong> 
-                                    <p>youremail@mailcom  &  info@gmail.com</p>
+                                    <p>info@kepri.kpu.go.id</p>
                                 </li>
                             </ul>
                             <!-- End of Contact Options -->
@@ -140,33 +108,39 @@
                             <!-- Social Links -->
                             <div class="lawFirm--contact-social-links">
                                 <span><i class="fa fa-globe"></i> Follow us </span>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
+                                <a href="https://web.facebook.com/KPUProvKepri/?_rdc=1&_rdr"><i class="fa fa-facebook"></i></a>
+                                <a href="https://twitter.com/KPUKepri"><i class="fa fa-twitter"></i></a>
+                                <a href="https://www.instagram.com/kpuprovkepri/"><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.youtube.com/channel/UCVdSz86o9q2cQKvAQ5QhOYg"><i class="fa fa-youtube"></i></a>
                             </div>
                             <!-- End of Social Links -->
                         </div>
-                        <!-- End of Hong Kong -->
+                        <!-- Kepulauan Riau -->
 
                         <!-- Chicago -->
-                        <div class="tab-pane" id="chicago" role="tabpanel" aria-labelledby="chicago-area">
+                        <div class="tab-pane" id="pusat" role="tabpanel" aria-labelledby="pusat-area">
                             <!-- Contact Options -->
+                            <strong class="mb-10">KPU REPUBLIK INDONESIA</strong>
                             <ul class="lawFirm--conact-options">
                                 <li class="mb-10">
                                     <i class="fa fa-map-marker"></i> 
-                                    <strong> Address </strong>
-                                    <p>295 Rebecca Street Chicago 2099 United States</p>
+                                    <strong>Alamat</strong>
+                                    <p>Jl. Imam Bonjol No.29 Jakarta 10310</p>
                                 </li>
                                 <li class="mb-10">
                                     <i class="fa fa-phone"></i> 
-                                    <strong> Phone </strong>
-                                    <p>+1212-446-4400  &  +1212-446-8800</p>
+                                    <strong>Telepon</strong>
+                                    <p>+62-21-3193-7223</p>
+                                </li>
+                                <li class="mb-10">
+                                    <i class="fa fa-fax"></i> 
+                                    <strong>Fax</strong>
+                                    <p>+62-21-3157-759</p>
                                 </li>
                                 <li class="mb-10">
                                     <i class="fa fa-envelope"></i> 
                                     <strong> Email </strong> 
-                                    <p>youremail@mailcom  &  info@gmail.com</p>
+                                    <p>info@kpu.go.id</p>
                                 </li>
                             </ul>
                             <!-- End of Contact Options -->
@@ -174,10 +148,10 @@
                             <!-- Social Links -->
                             <div class="lawFirm--contact-social-links">
                                 <span><i class="fa fa-globe"></i> Follow us </span>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
+                                <a href="https://www.facebook.com/KPURepublikIndonesia/"><i class="fa fa-facebook"></i></a>
+                                <a href="https://twitter.com/KPU_ID"><i class="fa fa-twitter"></i></a>
+                                <a href="https://www.instagram.com/kpu_ri/"><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.youtube.com/channel/UCVdSz86o9q2cQKvAQ5QhOYg"><i class="fa fa-youtube"></i></a>
                             </div>
                             <!-- End of Social Links -->
                         </div>
@@ -192,27 +166,27 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <!-- Name -->
-                                    <input type="text" name="name" class="form-control" placeholder="Name" required>
+                                    <input type="text" name="name" class="form-control" placeholder="Nama" required>
                                 </div>
                                 <div class="col-md-6">
                                     <!-- Phone Number -->
-                                    <input type="text" name="phone" class="form-control" placeholder="Phone Number" required>
+                                    <input type="text" name="phone" class="form-control" placeholder="Nomor Telepon" required>
                                 </div>
                                 <div class="col-md-6">
                                     <!-- Email Address -->
-                                    <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+                                    <input type="email" name="email" class="form-control" placeholder="Email" required>
                                 </div>
                                 <div class="col-md-6">
                                     <!-- Subject -->
-                                    <input type="text" name="subject" class="form-control" placeholder="Subject" required>
+                                    <input type="text" name="subject" class="form-control" placeholder="Judul" required>
                                 </div>
                                 <div class="col-md-12">
                                     <!-- Message Area -->
-                                    <textarea class="form-control" name="message" placeholder="Message" required></textarea>
+                                    <textarea class="form-control" name="message" placeholder="Pesan" required></textarea>
                                 </div>
                                 <div class="col-md-12">
                                     <!-- Send Button -->
-                                    <button class="btn" type="submit"> Send Message </button>
+                                    <button class="btn" type="submit">Kirim</button>
                                 </div>
                             </div>
                         </form>
@@ -226,8 +200,8 @@
     <!-- End of Contact -->
 
     <!-- Start Map -->
-    <div id="map" data-map-latitude="40.712776" data-map-longitude="-74.005974" data-map-zoom="5"
-        data-map-marker="[[40.712776, -74.005974], [114.149139, 22.286394], [41.881832, -87.623177], [44.651070, -63.582687]]">
+    <div id="map" data-map-latitude="0.908109" data-map-longitude="104.455577" data-map-zoom="5"
+        data-map-marker="[[1.129550, 103.925089], [0.908109, 104.455577], [-6.199807, 106.827455]]">
     </div>
     <!-- End Map -->
 

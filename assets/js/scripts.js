@@ -407,7 +407,7 @@ We may release future updates so it will overwrite this file. it's better and sa
     ==============================================*/
     $('.lawFirm--contact .nav.nav-pills .nav-item .dropdown-menu .nav-link').on('click', function(){
         var oText = $(this).text();
-        $('.lawFirm--contact .nav.nav-pills .nav-item > .nav-link').html(oText + " Office");
+        $('.lawFirm--contact .nav.nav-pills .nav-item > .nav-link').html("Kantor " + oText );
     });
     
     /* 09: Ajax Contact Form
