@@ -23,9 +23,9 @@
                             <div class="col-md-7 d-flex align-items-center">
                                 <!-- Banner Slider Item 01 Text -->
                                 <div class="lawFirm--banner-slider-item-text">
-                                    <h2>Our Clients</h2>
-                                    <h1>Do Great Things, We Get The Assist.</h1>
-                                    <a href="#" class="lawFirm--btn mt-50"> Free Consultation </a>
+                                    <h2>Pilkada Serentak 2020</h2>
+                                    <h1>Ayo Bersama Sama Sukseskan Pilkada 2020</h1>
+                                    <a href="#" class="lawFirm--btn mt-50"> Baca Selengkapnya </a>
                                 </div>
                                 <!-- End of Banner Slider Item 01 Text -->
                             </div>
@@ -58,9 +58,9 @@
                             <div class="col-md-7 d-flex align-items-center">
                                 <!-- Banner Slider Item 01 Text -->
                                 <div class="lawFirm--banner-slider-item-text">
-                                    <h2>We Provide</h2>
-                                    <h1>The Public Service Great Law Firm.</h1>
-                                    <a href="#" class="lawFirm--btn mt-60"> Free Consultation </a>
+                                    <h2>Pilkada Serentak 2020</h2>
+                                    <h1>Sebagai Generasi Milenial Kita Tidak Boleh Golput</h1>
+                                    <a href="#" class="lawFirm--btn mt-60"> Baca Selengkapnya </a>
                                 </div>
                                 <!-- End of Banner Slider Item 01 Text -->
                             </div>
@@ -99,22 +99,22 @@
     <!-- End of Banner Slider Cover -->
 
     <!-- Filter & Search -->
-    <div class="container">
+    <!-- <div class="container">
         <div class="row">
             <div class="col-md-10 offset-md-1">
-                <div class="lawFirm--filter-search pt-50 pl-50 pb-50 pr-50">
+                <div class="lawFirm--filter-search pt-50 pl-50 pb-50 pr-50"> -->
                     <!-- Filter Search Form -->
-                    <form>
+                    <!-- <form>
                         <div class="row half-gutters">
-                            <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="col-lg-3 col-md-6 col-sm-6"> -->
                                 <!-- Name Input-->
-                                <input type="text" class="form-control" placeholder="Type a Lawyer">
+                                <!-- <input type="text" class="form-control" placeholder="Type a Lawyer">
                             </div>
 
                             <div class="col-lg-3 col-md-6 col-sm-6">
-                                <div class="lawFirm--filter">
+                                <div class="lawFirm--filter"> -->
                                     <!-- Area Select -->
-                                    <select class="form-control">
+                                    <!-- <select class="form-control">
                                         <option selected>Practice Areas</option>
                                         <option>All</option>
                                         <option>Corporate Law</option>
@@ -128,9 +128,9 @@
                             </div>
 
                             <div class="col-lg-2 col-md-4 col-sm-6">
-                                <div class="lawFirm--filter">
+                                <div class="lawFirm--filter"> -->
                                     <!-- State Select -->
-                                    <select class="form-control">
+                                    <!-- <select class="form-control">
                                         <option selected> State </option>
                                         <option>Washington, D.C</option>
                                         <option>Hong Kong</option>
@@ -145,9 +145,9 @@
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6">
-                                <div class="lawFirm--filter">
+                                <div class="lawFirm--filter"> -->
                                     <!-- Location Select -->
-                                    <select class="form-control">
+                                    <!-- <select class="form-control">
                                         <option selected> Office Location</option>
                                         <option>Washington, D.C</option>
                                         <option>Hong Kong</option>
@@ -161,32 +161,32 @@
                                     </select>
                                 </div>
                             </div>
-                            <div class="col-lg-1 col-md-2">
+                            <div class="col-lg-1 col-md-2"> -->
                                 <!-- Searc Button -->
-                                <button class="btn btn-block"><i class="fa fa-search"></i></button>
+                                <!-- <button class="btn btn-block"><i class="fa fa-search"></i></button>
                             </div>
                         </div>
-                    </form>
+                    </form> -->
                     <!-- End of Filter Search Form -->
-                </div>
+                <!-- </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End of Filter & Search -->
 
     <!-- About us -->
-    <section class="lawFirm--about-us pt-120 pb-120">
+    <!-- <section class="lawFirm--about-us pt-120 pb-120">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5">
+                <div class="col-lg-5"> -->
                     <!-- Section Title -->
-                    <div class="lawFirm--section-title text-left">
+                    <!-- <div class="lawFirm--section-title text-left">
                         <h2>We Are Best For <br> Law Firm <span></span></h2>
-                    </div>
+                    </div> -->
                     <!-- End of Section Title -->
                     
                     <!-- About Text -->
-                    <div class="lawFirm--about-text">
+                    <!-- <div class="lawFirm--about-text">
                         <p>
                             We are committed to delivering a world-class  service providing the highest quality support.
                         </p>
@@ -201,34 +201,34 @@
                                 <img src="assets/images/signature.png" alt="" class="img-fluid" data-rjs="2">
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- End of About Text --> 
-                </div>
+                <!-- </div> -->
 
-                <div class="col-lg-6 offset-lg-1">
+                <!-- <div class="col-lg-6 offset-lg-1"> -->
                     <!-- About Images -->
-                    <div class="lawFirm--about-image row">
-                        <div class="col-md-6 col-sm-6">
+                    <!-- <div class="lawFirm--about-image row"> -->
+                        <!-- <div class="col-md-6 col-sm-6"> -->
                             <!-- Single Person -->
-                            <div class="lawFirm--about-image-person d-flex justify-content-md-end justify-content-center pt-20 pb-30">
+                            <!-- <div class="lawFirm--about-image-person d-flex justify-content-md-end justify-content-center pt-20 pb-30">
                                 <img src="assets/images/about-images/person.jpg" alt="" class="img-fluid parallax-effect" data-paroller-factor="0.1" data-paroller-type="foreground" data-paroller-transition="0.1s ease-out" data-rjs="2">
-                            </div>
+                            </div> -->
                             <!-- End of Single Person -->
-                        </div>
-                        <div class="col-md-6 col-sm-6 d-flex justify-content-md-end justify-content-start">
+                        <!-- </div>
+                        <div class="col-md-6 col-sm-6 d-flex justify-content-md-end justify-content-start"> -->
                             <!-- View Image -->
-                            <div class="lawFirm--about-image-view">
+                            <!-- <div class="lawFirm--about-image-view">
                                 <img src="assets/images/about-images/view-1.jpg" alt="" class="img-fluid" data-rjs="2">
                                 <img src="assets/images/about-images/view-2.jpg" alt="" class="img-fluid" data-rjs="2">
-                            </div>
+                            </div> -->
                             <!-- End of View Image -->
-                        </div>
-                    </div>
+                        <!-- </div>
+                    </div> -->
                     <!-- End of About Images -->
-                </div>
+                <!-- </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- End of About us -->
 
     <!-- Working Process -->
@@ -237,11 +237,12 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <!-- Working Process Image -->
-                    <div class="lawFirm--w-process-image">
+                    <iframe width="560" height="419" src="https://www.youtube.com/embed/ofva9Cm6KbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- <div class="lawFirm--w-process-image">
                         <div class="lawFirm--image-effect">
                             <img src="assets/images/w-process-images/group.jpg" alt="" class="img-fluid" data-rjs="2">
                         </div>
-                    </div>
+                    </div> -->
                     <!-- End of Working Process Image -->
                 </div>
                 <div class="col-lg-6">
@@ -249,7 +250,7 @@
                     <div class="lawFirm--w-process-text">
                         <!-- Section Title -->
                         <div class="lawFirm--section-title text-left">
-                            <h2>We Are Intelligent, Our Action Process <span></span></h2>
+                            <h2>Mari Ikut Serta dalam Pilkada Serentak 2020 <span></span></h2>
                         </div>
                         <!-- End of Section Title -->
 
@@ -308,7 +309,7 @@
         <div class="container">
             <!-- Section Title -->
             <div class="lawFirm--section-title text-left">
-                <h2>We Provide great service <br> and support <span></span></h2>
+                <h2>Keuntungan Berpartisipasi Dalam <br> Pilkada Serentak <span></span></h2>
             </div>
             <!-- End of Section Title -->
             <div class="lawFirm--service-slider lawFirm--slider-right-nav owl-carousel" data-owl-items="2" data-owl-margin="30" data-owl-nav="true" data-owl-responsive='{"0": {"items": "1"}, "480": {"items": "2"}}'>
@@ -326,8 +327,8 @@
                         <div class="col-lg-6">
                             <!-- Service Slider Item 01 Text -->
                             <div class="lawFirm--service-slider-item-text pt-40 pb-40 pl-10 pr-30">
-                                <h3 class="mb-25">Corporate Law</h3>
-                                <p>Corporate law is the body of laws, rules, regulations and practices that govern.</p>
+                                <h3 class="mb-25">Implementasi Perwujudan Kedaulatan Rakyat</h3>
+                                <p>Pemilu merupakan implementasi perwujudan kedaulatan rakyat. Sistem demokrasi mempunyai asumsi kalau kedaulatan terletak di tangan rakyat.</p>
                                 <a href="#" class="btn mt-30">Read More <img src="assets/images/rm-arrow.svg" alt="" class="svg svg-btn"></a>
                             </div>
                             <!-- End of Service Slider Item 01 Text -->
@@ -412,236 +413,7 @@
     </div>
     <!-- End of Service -->
 
-    <!-- Team -->
-    <div class="lawFirm--team pt-120 pb-70 lawFirm--right-back-circle">
-        <div class="container">
-            <!-- Section Title -->
-            <div class="lawFirm--section-title text-center">
-                <h2>We Are Great Team. <span></span></h2>
-            </div>
-            <!-- End of Section Title -->
-
-            <!-- Team Slider -->
-            <div class="lawFirm--team-slider owl-carousel" data-owl-items="4" data-owl-nav="true" data-owl-margin="30" data-owl-responsive='{"0": {"items": "1"}, "480": {"items": "2"},"992": {"items": "3"},"1200": {"items": "4"}}'>
-                <!-- Team Slider Item 01 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 01 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/person-1.jpg" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 01 Image -->
-                    
-                    <!-- Item 01 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Andrea Anderson </a></h4>
-                        <p>Corporate Law</p>
-                    </div>
-                    <!-- End of Item 01 Text -->
-                </div>
-                <!-- End of Team Slider Item 01 -->
-                
-                <!-- Team Slider Item 02 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 02 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/person-2.jpg" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 02 Image -->
-                    
-                    <!-- Item 02 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> James E. Hartley </a> </h4>
-                        <p>Corporate Law</p>
-                    </div>
-                    <!-- End of Item 02 Text -->
-                </div>
-                <!-- End of Team Slider Item 02 -->
-
-                <!-- Team Slider Item 03 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 03 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/person-3.jpg" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 03 Image -->
-                    
-                    <!-- Item 03 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Kyle Gray </a> </h4>
-                        <p>Corporate Law</p>
-                    </div>
-                    <!-- End of Item 03 Text -->
-                </div>
-                <!-- End of Team Slider Item 03 -->
-
-                <!-- Team Slider Item 04 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 04 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/person-4.jpg" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 04 Image -->
-                    
-                    <!-- Item 04 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Laura S. Hundley </a> </h4>
-                        <p>Corporate Law</p>
-                    </div>
-                    <!-- End of Item 04 Text -->
-                </div>
-                <!-- End of Team Slider Item 04 -->
-
-                <!-- Team Slider Item 05 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 05 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/person-1.jpg" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 05 Image -->
-                    
-                    <!-- Item 05 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Andrea Anderson </a> </h4>
-                        <p>Corporate Law</p>
-                    </div>
-                    <!-- End of Item 05 Text -->
-                </div>
-                <!-- End of Team Slider Item 05 -->
-                
-                <!-- Team Slider Item 06 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 06 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/person-2.jpg" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 06 Image -->
-                    
-                    <!-- Item 06 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> James E. Hartley </a> </h4>
-                        <p>Corporate Law</p>
-                    </div>
-                    <!-- End of Item 06 Text -->
-                </div>
-                <!-- End of Team Slider Item 06 -->
-
-                <!-- Team Slider Item 07 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 07 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/person-3.jpg" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 07 Image -->
-                    
-                    <!-- Item 07 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Kyle Gray </a> </h4>
-                        <p>Corporate Law</p>
-                    </div>
-                    <!-- End of Item 07 Text -->
-                </div>
-                <!-- End of Team Slider Item 07 -->
-
-                <!-- Team Slider Item 08 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 08 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/person-4.jpg" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 08 Image -->
-                    
-                    <!-- Item 08 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Laura S. Hundley </a></h4>
-                        <p>Corporate Law</p>
-                    </div>
-                    <!-- End of Item 08 Text -->
-                </div>
-                <!-- End of Team Slider Item 08 -->
-            </div>
-        </div>
-    </div>
-    <!-- End of Team -->
+   
 
     <!-- Internship -->
     <div class="lawFirm--internship pt-120 pb-120 lawFirm--bg-overlay lawFirm--bg-center" data-bg-img="assets/images/internship-bg.jpg">
@@ -650,13 +422,14 @@
                 <div class="col-lg-8">
                     <!-- Internship Text -->
                     <div class="lawFirm--internship-text">
-                        <h2>If You Are Seeking a Reputable Firm With Excellent Opportunities For Training With Experienced And Successful Lawyers.</h2>
+                        <h2>Semua hrs berperan utk majukan daerahnya masing2, minimal dgn ikut nyoblos. Bukan diam.</h2>
                     </div>
                     <!-- End of Internship Text -->
                 </div>
                 <div class="col-lg-4 d-flex justify-content-center">
                     <!-- Internship Button -->
-                    <a href="" class="lawFirm--btn">Free Internships</a>
+                    <!-- <a href="" class="lawFirm--btn">Free Internships</a> -->
+                    <h2 style="color:white;">- Anonim.</h2>
                     <!-- End of Internship Button -->
                 </div>
             </div>
@@ -724,6 +497,112 @@
         </div>
     </div>
     <!-- End of Testimonials -->
+
+    <!-- Company Logo -->
+    <div class="lawFirm--c-logo pt-120 pb-120 lawFirm--bg-overlay-2">
+        <div class="container">
+            <!-- Company Logo Slider -->
+            <div class="lawFirm--c-logo-slider owl-carousel" data-owl-items="6" data-owl-margin="30" data-owl-mouse-drag="true" data-owl-responsive='{"0": {"items": "2"}, "575": {"items": "3"},"768": {"items": "4"},"992": {"items": "6"}}'>
+                <!-- Company Logo Slider Item 01 -->        
+                <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/berkarya.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 01 -->
+                
+                <!-- Company Logo Slider Item 02 -->        
+                <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/demokrat.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 02 -->
+                
+                <!-- Company Logo Slider Item 03 -->        
+                <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/garuda.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 03 -->
+                
+                <!-- Company Logo Slider Item 04 -->        
+                <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/gerindra.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 04 -->
+
+                <!-- Company Logo Slider Item 05 -->        
+                <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/golkar.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 05 -->
+                
+                <!-- Company Logo Slider Item 06 -->        
+                <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/hanura.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 06 -->
+
+                 <!-- Company Logo Slider Item 07 -->        
+                 <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/nasdem.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 07 -->
+
+                 <!-- Company Logo Slider Item 08 -->        
+                 <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/pan.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 08 -->
+
+                 <!-- Company Logo Slider Item 09 -->        
+                 <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/pbb.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 09 -->
+
+                 <!-- Company Logo Slider Item 10 -->        
+                 <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/pdip.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 10 -->
+
+                 <!-- Company Logo Slider Item 11 -->        
+                 <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/perindo.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 11 -->
+
+                 <!-- Company Logo Slider Item 12 -->        
+                 <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/pkb.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 12 -->
+
+                 <!-- Company Logo Slider Item 13 -->        
+                 <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/pkp.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 13 -->
+
+                 <!-- Company Logo Slider Item 14 -->        
+                 <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/pks.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 14 -->
+
+                <!-- Company Logo Slider Item 15 -->        
+                <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/ppp.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 15 -->
+
+                <!-- Company Logo Slider Item 16 -->        
+                <div class="lawFirm--c-logo-slider-item">
+                    <img src="assets/images/parpol/psi.png" alt="" class="img-fluid" data-rjs="2">
+                </div>
+                <!-- Company Logo Slider Item 16 -->
+            </div>
+            <!-- End of Company Logo Slider -->
+        </div>
+    </div>
+    <!-- End of Company Logo -->
 
     <!-- Blog -->
     <div class="lawFirm--blogs pt-120 pb-120">
@@ -823,51 +702,238 @@
     </div>
     <!-- End of Blog -->
 
-    <!-- Company Logo -->
-    <div class="lawFirm--c-logo pt-120 pb-120 lawFirm--bg-overlay-2">
-        <div class="container">
-            <!-- Company Logo Slider -->
-            <div class="lawFirm--c-logo-slider owl-carousel" data-owl-items="6" data-owl-margin="30" data-owl-mouse-drag="true" data-owl-responsive='{"0": {"items": "2"}, "575": {"items": "3"},"768": {"items": "4"},"992": {"items": "6"}}'>
-                <!-- Company Logo Slider Item 01 -->        
-                <div class="lawFirm--c-logo-slider-item">
-                    <img src="assets/images/company-logos/logo-1.png" alt="" class="img-fluid" data-rjs="2">
-                </div>
-                <!-- Company Logo Slider Item 01 -->
-                
-                <!-- Company Logo Slider Item 02 -->        
-                <div class="lawFirm--c-logo-slider-item">
-                    <img src="assets/images/company-logos/logo-2.png" alt="" class="img-fluid" data-rjs="2">
-                </div>
-                <!-- Company Logo Slider Item 02 -->
-                
-                <!-- Company Logo Slider Item 03 -->        
-                <div class="lawFirm--c-logo-slider-item">
-                    <img src="assets/images/company-logos/logo-3.png" alt="" class="img-fluid" data-rjs="2">
-                </div>
-                <!-- Company Logo Slider Item 03 -->
-                
-                <!-- Company Logo Slider Item 04 -->        
-                <div class="lawFirm--c-logo-slider-item">
-                    <img src="assets/images/company-logos/logo-4.png" alt="" class="img-fluid" data-rjs="2">
-                </div>
-                <!-- Company Logo Slider Item 04 -->
+    
 
-                <!-- Company Logo Slider Item 05 -->        
-                <div class="lawFirm--c-logo-slider-item">
-                    <img src="assets/images/company-logos/logo-5.png" alt="" class="img-fluid" data-rjs="2">
-                </div>
-                <!-- Company Logo Slider Item 05 -->
-                
-                <!-- Company Logo Slider Item 06 -->        
-                <div class="lawFirm--c-logo-slider-item">
-                    <img src="assets/images/company-logos/logo-6.png" alt="" class="img-fluid" data-rjs="2">
-                </div>
-                <!-- Company Logo Slider Item 06 -->
+     <!-- Team -->
+     <div class="lawFirm--team pt-120 pb-70 lawFirm--left-back-circle">
+        <div class="container">
+            <!-- Section Title -->
+            <div class="lawFirm--section-title text-center">
+                <h2>We Are Great Team. <span></span></h2>
             </div>
-            <!-- End of Company Logo Slider -->
+            <!-- End of Section Title -->
+
+            <!-- Team Slider -->
+            <div class="lawFirm--team-slider owl-carousel" data-owl-items="4" data-owl-nav="true" data-owl-margin="30" data-owl-responsive='{"0": {"items": "1"}, "480": {"items": "2"},"992": {"items": "3"},"1200": {"items": "4"}}'>
+                <!-- Team Slider Item 01 -->
+                <div class="lawFirm--team-slider-item">
+                    <!-- Item 01 Image -->
+                    <div class="lawFirm--team-slider-item-image">
+                        <!-- Image -->
+                        <img src="assets/images/team-images/yohana.png" alt="" class="img-fluid" data-rjs="2">
+                        <!-- End of Image -->
+                        <!-- Social Links-->
+                        <div class="social-links">
+                            <a href=""><i class="fa fa-facebook-f"></i></a>
+                            <a href=""><i class="fa fa-twitter"></i></a>
+                            <a href=""><i class="fa fa-linkedin"></i></a>
+                            <a href=""><i class="fa fa-youtube"></i></a>
+                        </div>
+                        <!-- End of Social Links-->
+                    </div>
+                    <!-- End of Item 01 Image -->
+                    
+                    <!-- Item 01 Text-->
+                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
+                        <h4> <a href="lawyer-details.html"> Yohana Juwitasari </a></h4>
+                        <p>1941323</p>
+                    </div>
+                    <!-- End of Item 01 Text -->
+                </div>
+                <!-- End of Team Slider Item 01 -->
+                
+                <!-- Team Slider Item 02 -->
+                <div class="lawFirm--team-slider-item">
+                    <!-- Item 02 Image -->
+                    <div class="lawFirm--team-slider-item-image">
+                        <!-- Image -->
+                        <img src="assets/images/team-images/tomy.png" alt="" class="img-fluid" data-rjs="2">
+                        <!-- End of Image -->
+                        <!-- Social Links-->
+                        <div class="social-links">
+                            <a href=""><i class="fa fa-facebook-f"></i></a>
+                            <a href=""><i class="fa fa-twitter"></i></a>
+                            <a href=""><i class="fa fa-linkedin"></i></a>
+                            <a href=""><i class="fa fa-youtube"></i></a>
+                        </div>
+                        <!-- End of Social Links-->
+                    </div>
+                    <!-- End of Item 02 Image -->
+                    
+                    <!-- Item 02 Text-->
+                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
+                        <h4> <a href="lawyer-details.html"> Tomy </a> </h4>
+                        <p>1931066</p>
+                    </div>
+                    <!-- End of Item 02 Text -->
+                </div>
+                <!-- End of Team Slider Item 02 -->
+
+                <!-- Team Slider Item 03 -->
+                <div class="lawFirm--team-slider-item">
+                    <!-- Item 03 Image -->
+                    <div class="lawFirm--team-slider-item-image">
+                        <!-- Image -->
+                        <img src="assets/images/team-images/steven.png" alt="" class="img-fluid" data-rjs="2">
+                        <!-- End of Image -->
+                        <!-- Social Links-->
+                        <div class="social-links">
+                            <a href=""><i class="fa fa-facebook-f"></i></a>
+                            <a href=""><i class="fa fa-twitter"></i></a>
+                            <a href=""><i class="fa fa-linkedin"></i></a>
+                            <a href=""><i class="fa fa-youtube"></i></a>
+                        </div>
+                        <!-- End of Social Links-->
+                    </div>
+                    <!-- End of Item 03 Image -->
+                    
+                    <!-- Item 03 Text-->
+                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
+                        <h4> <a href="lawyer-details.html"> Steven Salim </a> </h4>
+                        <p>1931144</p>
+                    </div>
+                    <!-- End of Item 03 Text -->
+                </div>
+                <!-- End of Team Slider Item 03 -->
+
+                <!-- Team Slider Item 04 -->
+                <div class="lawFirm--team-slider-item">
+                    <!-- Item 04 Image -->
+                    <div class="lawFirm--team-slider-item-image">
+                        <!-- Image -->
+                        <img src="assets/images/team-images/person-4.jpg" alt="" class="img-fluid" data-rjs="2">
+                        <!-- End of Image -->
+                        <!-- Social Links-->
+                        <div class="social-links">
+                            <a href=""><i class="fa fa-facebook-f"></i></a>
+                            <a href=""><i class="fa fa-twitter"></i></a>
+                            <a href=""><i class="fa fa-linkedin"></i></a>
+                            <a href=""><i class="fa fa-youtube"></i></a>
+                        </div>
+                        <!-- End of Social Links-->
+                    </div>
+                    <!-- End of Item 04 Image -->
+                    
+                    <!-- Item 04 Text-->
+                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
+                        <h4> <a href="lawyer-details.html"> Kisusyenni Venessa </a> </h4>
+                        <p>1931150</p>
+                    </div>
+                    <!-- End of Item 04 Text -->
+                </div>
+                <!-- End of Team Slider Item 04 -->
+
+                <!-- Team Slider Item 05 -->
+                <div class="lawFirm--team-slider-item">
+                    <!-- Item 05 Image -->
+                    <div class="lawFirm--team-slider-item-image">
+                        <!-- Image -->
+                        <img src="assets/images/team-images/henny.png" alt="" class="img-fluid" data-rjs="2">
+                        <!-- End of Image -->
+                        <!-- Social Links-->
+                        <div class="social-links">
+                            <a href=""><i class="fa fa-facebook-f"></i></a>
+                            <a href=""><i class="fa fa-twitter"></i></a>
+                            <a href=""><i class="fa fa-linkedin"></i></a>
+                            <a href=""><i class="fa fa-youtube"></i></a>
+                        </div>
+                        <!-- End of Social Links-->
+                    </div>
+                    <!-- End of Item 05 Image -->
+                    
+                    <!-- Item 05 Text-->
+                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
+                        <h4> <a href="lawyer-details.html"> Henny </a> </h4>
+                        <p>1941307</p>
+                    </div>
+                    <!-- End of Item 05 Text -->
+                </div>
+                <!-- End of Team Slider Item 05 -->
+                
+                <!-- Team Slider Item 06 -->
+                <div class="lawFirm--team-slider-item">
+                    <!-- Item 06 Image -->
+                    <div class="lawFirm--team-slider-item-image">
+                        <!-- Image -->
+                        <img src="assets/images/team-images/alice.png" alt="" class="img-fluid" data-rjs="2">
+                        <!-- End of Image -->
+                        <!-- Social Links-->
+                        <div class="social-links">
+                            <a href=""><i class="fa fa-facebook-f"></i></a>
+                            <a href=""><i class="fa fa-twitter"></i></a>
+                            <a href=""><i class="fa fa-linkedin"></i></a>
+                            <a href=""><i class="fa fa-youtube"></i></a>
+                        </div>
+                        <!-- End of Social Links-->
+                    </div>
+                    <!-- End of Item 06 Image -->
+                    
+                    <!-- Item 06 Text-->
+                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
+                        <h4> <a href="lawyer-details.html"> Alice </a> </h4>
+                        <p>1941353</p>
+                    </div>
+                    <!-- End of Item 06 Text -->
+                </div>
+                <!-- End of Team Slider Item 06 -->
+
+                <!-- Team Slider Item 07 -->
+                <div class="lawFirm--team-slider-item">
+                    <!-- Item 07 Image -->
+                    <div class="lawFirm--team-slider-item-image">
+                        <!-- Image -->
+                        <img src="assets/images/team-images/person-3.jpg" alt="" class="img-fluid" data-rjs="2">
+                        <!-- End of Image -->
+                        <!-- Social Links-->
+                        <div class="social-links">
+                            <a href=""><i class="fa fa-facebook-f"></i></a>
+                            <a href=""><i class="fa fa-twitter"></i></a>
+                            <a href=""><i class="fa fa-linkedin"></i></a>
+                            <a href=""><i class="fa fa-youtube"></i></a>
+                        </div>
+                        <!-- End of Social Links-->
+                    </div>
+                    <!-- End of Item 07 Image -->
+                    
+                    <!-- Item 07 Text-->
+                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
+                        <h4> <a href="lawyer-details.html"> Vienna Tanisya </a> </h4>
+                        <p>1942184</p>
+                    </div>
+                    <!-- End of Item 07 Text -->
+                </div>
+                <!-- End of Team Slider Item 07 -->
+
+                <!-- Team Slider Item 08 -->
+                <div class="lawFirm--team-slider-item">
+                    <!-- Item 08 Image -->
+                    <div class="lawFirm--team-slider-item-image">
+                        <!-- Image -->
+                        <img src="assets/images/team-images/angel.png" alt="" class="img-fluid" data-rjs="2">
+                        <!-- End of Image -->
+                        <!-- Social Links-->
+                        <div class="social-links">
+                            <a href=""><i class="fa fa-facebook-f"></i></a>
+                            <a href=""><i class="fa fa-twitter"></i></a>
+                            <a href=""><i class="fa fa-linkedin"></i></a>
+                            <a href=""><i class="fa fa-youtube"></i></a>
+                        </div>
+                        <!-- End of Social Links-->
+                    </div>
+                    <!-- End of Item 08 Image -->
+                    
+                    <!-- Item 08 Text-->
+                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
+                        <h4> <a href="lawyer-details.html"> Angel Tng </a></h4>
+                        <p>1951010</p>
+                    </div>
+                    <!-- End of Item 08 Text -->
+                </div>
+                <!-- End of Team Slider Item 08 -->
+            </div>
         </div>
     </div>
-    <!-- End of Company Logo -->
+    <!-- End of Team -->
 
     <!-- Contact -->
     <div class="lawFirm--contact pt-120 pb-120 lawFirm--right-back-circle">
@@ -878,7 +944,7 @@
 
             <div class="row">
                 <div class="col-lg-5 pb-30">
-                    <ul class="nav nav-pills">
+                    <!-- <ul class="nav nav-pills">
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">New York Office</a>
                             <div class="dropdown-menu">
@@ -890,7 +956,7 @@
                                 <a class="nav-link" id="chicago-area" data-toggle="tab" href="#chicago" aria-expanded="false" aria-controls="chicago">Chicago</a>
                             </div>
                         </li>
-                    </ul>
+                    </ul> -->
                     <div class="tab-content" id="myTabContent">
                         <!-- New York -->
                         <div class="tab-pane fade show active" id="new-york" role="tabpanel" aria-labelledby="new-york-area">
@@ -898,17 +964,17 @@
                                 <li class="mb-10">
                                     <i class="fa fa-map-marker"></i> 
                                     <strong> Address </strong>
-                                    <p>3173 Forest Avenue New York 10013 United States</p>
+                                    <p>Sei Ladi, Jl. Gajah Mada, Baloi Permai, Kec. Sekupang, Kota Batam, Kepulauan Riau 29442</p>
                                 </li>
                                 <li class="mb-10">
                                     <i class="fa fa-phone"></i> 
                                     <strong> Phone </strong>
-                                    <p>+1212-446-4400  &  +1212-446-8800</p>
+                                    <p>(0778) 7437111</p>
                                 </li>
                                 <li class="mb-10">
                                     <i class="fa fa-envelope"></i> 
                                     <strong> Email </strong> 
-                                    <p>youremail@mailcom  &  info@gmail.com</p>
+                                    <p>gemilih_batam@gmail.com</p>
                                 </li>
                             </ul>
                             <!-- End of Contact Options -->
@@ -916,10 +982,10 @@
                             <!-- Social Links -->
                             <div class="lawFirm--contact-social-links">
                                 <span><i class="fa fa-globe"></i> Follow us </span>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                <a href="https://www.instagram.com/gemilih_batam/" target="_blank"><i class="fa fa-instagram"></i></a>
+                                <!-- <a href="#"><i class="fa fa-twitter"></i></a>
                                 <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
+                                <a href="#"><i class="fa fa-youtube"></i></a> -->
                             </div>
                             <!-- End of Social Links -->
                         </div>
@@ -983,10 +1049,10 @@
                             <!-- Social Links -->
                             <div class="lawFirm--contact-social-links">
                                 <span><i class="fa fa-globe"></i> Follow us </span>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                <a href="https://www.instagram.com/gemilih_batam/"><i class="fa fa-instagram"></i></a>
+                                <!-- <a href="#"><i class="fa fa-twitter"></i></a>
                                 <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
+                                <a href="#"><i class="fa fa-youtube"></i></a> -->
                             </div>
                             <!-- End of Social Links -->
                         </div>

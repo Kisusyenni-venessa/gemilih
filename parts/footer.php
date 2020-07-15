@@ -4,7 +4,7 @@
             <div class="col-md-5 order-3 order-md-1">
                 <!-- Footer Cradit -->
                 <div class="lawFirm-footer-cradit text-center text-md-left">
-                    Copyright 2019 &copy; Developed by <a href="#">ThemeLooks.</a>
+                    Copyright 2020 &copy; Developed by <a href="#">2GAME (GEMILIH) UIB</a>
                 </div>
                 <!-- End of Footer Cradit -->
             </div>

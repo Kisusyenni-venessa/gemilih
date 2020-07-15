@@ -7,7 +7,8 @@
     <title>Gemilih - Generasi Milenial Memilih)</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
+    <!-- <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"> -->
+    <link rel="icon" href="assets/images/logo-icon.png">
 
     <!--==== Google Fonts ====-->
     <link href="https://fonts.googleapis.com/css?family=Nunito%7CPlayfair+Display:400,700%7CYantramanav:400,700" rel="stylesheet">  
