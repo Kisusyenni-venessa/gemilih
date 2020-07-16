@@ -198,7 +198,7 @@
                     <!-- Item 07 Image -->
                     <div class="lawFirm--team-slider-item-image">
                         <!-- Image -->
-                        <img src="assets/images/team-images/person-3.jpg" alt="" class="img-fluid" data-rjs="2">
+                        <img src="assets/images/team-images/vienna.jpg" alt="" class="img-fluid" data-rjs="2">
                         <!-- End of Image -->
                         <!-- Social Links-->
                         <div class="social-links">
@@ -418,9 +418,10 @@
     <!-- End of Contact -->
 
     <!-- Start Map -->
-    <div id="map" data-map-latitude="40.712776" data-map-longitude="-74.005974" data-map-zoom="5"
-        data-map-marker="[[40.712776, -74.005974], [114.149139, 22.286394], [41.881832, -87.623177], [44.651070, -63.582687]]">
-    </div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.0602735076!2d104.00259228701313!3d1.1169043081519625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d98be09646b351%3A0x36a826082690c786!2sUniversitas%20Internasional%20Batam!5e0!3m2!1sid!2sid!4v1594884564260!5m2!1sid!2sid" width="1903" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    <!-- <div id="map" data-map-latitude="40.712776" data-map-longitude="-74.005974" data-map-zoom="5"
+        data-map-marker="[[40.712776, -74.005974]">
+    </div> -->
     <!-- End Map -->
 
 

@@ -18,8 +18,8 @@
                         <!-- Nav Menu -->
                         <div class="lawFirm--nav-menu ul-default">
                             <ul>
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about.html">About</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about.php">About</a></li>
                                 <li><a href="practice-area.html">Service</a></li>
                                 <li class="menu-item-has-children"><a href="#">Page</a>
                                     <ul class="sub-menu">
