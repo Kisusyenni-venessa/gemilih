@@ -260,11 +260,18 @@
                             <div class="lawFirm--acc-item">
                                 <div class="target-area active" id="target-area">
                                     <h3 class="pb-25" data-toggle="collapse" data-target="#expand-area-1" aria-expanded="true" aria-controls="expand-area-1">
-                                        Analyzing <span></span>
+                                        Apa itu Pilkada? <span></span>
                                     </h3>
                                 </div>
                                 <div id="expand-area-1" class="collapse expand-area show" aria-labelledby="target-area" data-parent="#lawFirm--accordion">
-                                    <p class="pb-30 mb-0">You should read the case through at least once from beginning to end until you attempt to figure out which fact are most important or analyze the court's holding.</p>
+                                    <p>
+                                        <ul>
+                                        Pemilihan umum kepala daerah dan wakil kepala daerah (<b>'pilkada'</b> atau <b>'pemilukada'</b> ) adalah pemilihan umum untuk memilih kepala daerah dan wakil kepala daerah secara langsung di Indonesia oleh penduduk daerah setempat yang memenuhi syarat. <br>Kepala daerah dan wakil kepala daerah adalah:
+                                            <li>Gubernur dan wakil gubernur untuk provinsi</li>
+                                            <li>Bupati dan wakil bupati untuk kabupaten</li>
+                                            <li>Walikota dan wakil walikota untuk kota</li>
+                                        </ul>
+                                    </p>
                                 </div>
                             </div>
                             <!-- End of Working Process Item 01 -->
@@ -273,11 +280,12 @@
                             <div class="lawFirm--acc-item">
                                 <div class="target-area">
                                     <h3 class="collapsed pt-25 pb-25" data-toggle="collapse" data-target="#expand-area-2" aria-expanded="false" aria-controls="expand-area-2">
-                                        Research And Investigation <span></span>
+                                        Sudahkah Anda Terdaftar Sebagai Pemilih? <span></span>
                                     </h3>
                                 </div>
                                 <div id="expand-area-2" class="collapse expand-area" aria-labelledby="target-area" data-parent="#lawFirm--accordion">
-                                    <p class="pb-30 mb-0">You should read the case through at least once from beginning to end until you attempt to figure out which fact are most important or analyze the court's holding.</p>
+                                    <p class="pb-30 mb-0">Jelang Pemilihan Kepala Daerah atau Pilkada 2020, masyarakat disarankan mengecek apakah dirinya sudah terdaftar menjadi pemilih atau belum. Pengecekan cukup klik di <a href="https://www.lindungihakpilihmu.kpu.go.id/">www.lindungihakpilihmu.kpu.go.id</a>.</p>
+                                    <p>Apabila belum terdaftar, segera mendatangi Posko Pengaduan DPS/DPT di masing-masing daerahnya. Lalu dapat mendaftarkan diri dengan cara membawa KTP Elektronik yang asli untuk ditunjukkan kepada pengawas pilkada, dan menyerahkan fotocopynya.</p>
                                 </div>
                             </div>
                             <!-- End of Working Process Item 02 -->
@@ -286,7 +294,7 @@
                             <div class="lawFirm--acc-item">
                                 <div class="target-area">
                                     <h3 class="collapsed pt-25 pb-25" data-toggle="collapse" data-target="#expand-area-3" aria-expanded="false" aria-controls="expand-area-3">
-                                        Court of law Success <span></span>
+                                        Kapan Pilkada Serentak 2020 akan Dilaksanakan?<span></span>
                                     </h3>
                                 </div>
                                 <div id="expand-area-3" class="collapse expand-area" aria-labelledby="target-area" data-parent="#lawFirm--accordion">
@@ -442,7 +450,7 @@
         <div class="container">
             <!-- Section Title -->
             <div class="lawFirm--section-title text-center">
-                <h2>What They Say About Us <span></span></h2>
+                <h2>Apa Kata Mereka<span></span></h2>
             </div>
             <!-- End of Section Title -->
 
@@ -451,29 +459,29 @@
                 <!-- Slider Item 01 -->
                 <div class="lawFirm--testimonials-slider-item p-relative pt-50 pr-50 pb-70 pl-50 mb-55">
                     <div class="slider-item-text text-center">
-                        <p class="pb-50">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                        <p class="pb-50">"Jangan sampai ada yang golput. Ajak saudara-saudara untuk berbondong-bondong ke TPS"</p>
                         <div class="slider-item-client">
-                            <h4 class="yantramanav">Sabbir Ahmed</h4>
-                            <p>UI designer & CEO</p>
+                            <h4 class="yantramanav">Joko Widodo</h4>
+                            <p>Presiden Republik Indonesia</p>
                         </div>
                     </div>
                     <div class="slider-item-image">
-                        <img src="assets/images/testimonials-images/client-1.jpg" alt="" class="img-fluid" data-rjs="2">
+                        <img src="assets/images/people-img/jokowi.jpg" alt="" class="img-fluid" data-rjs="2">
                     </div>
                 </div>
                 <!-- End of Slider Item 01 -->
-
                 <!-- Slider Item 02 -->
                 <div class="lawFirm--testimonials-slider-item p-relative pt-50 pr-50 pb-70 pl-50 mb-55">
                     <div class="slider-item-text text-center">
-                        <p class="pb-50">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                        <p class="pb-50">“Ada 80 juta anak muda di negeri ini, 5 juta di antaranya pemilih pemula. Itu jumlah yang signifikan untuk menentukan nasib bangsa ini. Jadi yakinlah bahwa satu suaramu itu penting dan berharga”
+                        </p>
                         <div class="slider-item-client">
-                            <h4 class="yantramanav">Sabbir Ahmed</h4>
-                            <p>UI designer & CEO</p>
+                            <h4 class="yantramanav">Najwa Shihab</h4>
+                            <p>Presenter Mata Najwa</p>
                         </div>
                     </div>
                     <div class="slider-item-image">
-                        <img src="assets/images/testimonials-images/client-2.jpg" alt="" class="img-fluid" data-rjs="2">
+                        <img src="assets/images/people-img/najwa-shihab.jpg" alt="" class="img-fluid" data-rjs="2">
                     </div>
                 </div>
                 <!-- End of Slider Item 02 -->
@@ -481,17 +489,33 @@
                 <!-- Slider Item 03 -->
                 <div class="lawFirm--testimonials-slider-item p-relative pt-50 pr-50 pb-70 pl-50 mb-55">
                     <div class="slider-item-text text-center">
-                        <p class="pb-50">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                        <p class="pb-50">“Generasi milenial ini bisa dikatakan sebagai generasi rasional dan optimis. Jangan sampai generasi milenial golput. Golput tidak menjadi solusi untuk Indonesia yang lebih baik"</p>
                         <div class="slider-item-client">
-                            <h4 class="yantramanav">Sabbir Ahmed</h4>
-                            <p>UI designer & CEO</p>
+                            <h4 class="yantramanav">Asrorun Niam Sholeh</h4>
+                            <p>Deputi Pengembangan Pemuda Kementerian Pemuda dan Olahraga ( Kemenpora)</p>
                         </div>
                     </div>
                     <div class="slider-item-image">
-                        <img src="assets/images/testimonials-images/client-3.jpg" alt="" class="img-fluid" data-rjs="2">
+                        <img src="assets/images/people-img/asrorun-niam.jpg" alt="" class="img-fluid" data-rjs="2">
                     </div>
                 </div>
                 <!-- End of Slider Item 03 -->
+
+                <!-- Slider Item 04 -->
+                <div class="lawFirm--testimonials-slider-item p-relative pt-50 pr-50 pb-70 pl-50 mb-55">
+                    <div class="slider-item-text text-center">
+                        <p class="pb-50">"Suara dari masyarakat merupakan suatu amanah besar yang menentukan nasib bangsa kedepan. Mereka yang mengawal suara ini sudah sepantasnya kita sebut sebagai pahlawan demokrasi."</p>
+                        <div class="slider-item-client">
+                            <h4 class="yantramanav">Sandiaga Salahuddin Uno</h4>
+                            <p>Pengusaha dan Politikus</p>
+                        </div>
+                    </div>
+                    <div class="slider-item-image">
+                        <img src="assets/images/people-img/sandiaga-uno.jpg" alt="" class="img-fluid" data-rjs="2">
+                    </div>
+                </div>
+                <!-- End of Slider Item 04 -->
+                
             </div>
             <!-- End of Testimonial Slider -->
         </div>
@@ -801,7 +825,7 @@
                     <!-- Item 04 Image -->
                     <div class="lawFirm--team-slider-item-image">
                         <!-- Image -->
-                        <img src="assets/images/team-images/person-4.jpg" alt="" class="img-fluid" data-rjs="2">
+                        <img src="assets/images/team-images/kisus.png" alt="" class="img-fluid" data-rjs="2">
                         <!-- End of Image -->
                         <!-- Social Links-->
                         <div class="social-links">

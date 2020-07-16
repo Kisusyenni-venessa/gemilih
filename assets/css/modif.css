@@ -11,7 +11,7 @@ font-family: 'Open Sans', sans-serif; --> text
     --light-grey: #F7F0F0; /*isabelline*/
     --dark-color: #1C110A; /*smoky black*/
   }
-/* Navigation Bar */
+/* Color */
 
 .lawFirm--navbar-cover.sticky, .lawFirm--filter-search .btn {
     background-color: var(--header-color);
@@ -23,4 +23,12 @@ font-family: 'Open Sans', sans-serif; --> text
 
 .lawFirm--filter-search {
     box-shadow: 0px 5px 20px 0 rgba(193, 31, 31 , 0.5);
+}
+
+/* Index */
+.lawFirm--w-process-items .lawFirm--acc-item .expand-area ul {
+    list-style: disc;
+}
+.lawFirm--w-process-items .lawFirm--acc-item .expand-area ul li {
+    margin-left: 5px;
 }
