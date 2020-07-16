@@ -713,7 +713,7 @@
                 <div class="lawFirm--blog-slider-item">
                     <!-- Slider Item Image -->
                     <div class="lawFirm--blog-slider-item-image">
-                        <a href="news-1.php"><img src="assets/images/news-img/news1.webp" alt="" class="img-fluid"
+                        <a href="news-1.php"><img src="assets/images/news-img/news1.jpg" alt="" class="img-fluid"
                                 data-rjs="2"></a>
                     </div>
                     <!-- End of Slider Item Image -->
