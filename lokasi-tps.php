@@ -29,8 +29,8 @@
                 </div>
                 
                 <!-- Start Map -->
-                <div id="map" data-map-latitude="40.712776" data-map-longitude="-74.005974" data-map-zoom="5"
-                    data-map-marker="[[40.712776, -74.005974], [114.149139, 22.286394], [41.881832, -87.623177], [44.651070, -63.582687]]">
+                <div id="map" data-map-latitude="1.129711" data-map-longitude="103.926913" data-map-zoom="17"
+                    data-map-marker="[[1.129711, 103.926913]]">
                 </div>
                 <!-- End Map -->
             </div>
@@ -46,22 +46,39 @@
                         <form>
                             <div class="row half-gutters">
                                 <div class="col-lg-3 col-md-6 col-sm-6">
-                                    <!-- Name Input-->
-                                    <input type="text" class="form-control" placeholder="Type a Lawyer">
+                                <div class="lawFirm--filter">
+                                        <!-- TPS -->
+                                        <select class="form-control">
+                                            <option selected>TPS</option>
+                                            <option>TPS 01</option>
+                                            <option>TPS 02</option>
+                                            <option>TPS 03</option>
+                                            <option>TPS 04</option>
+                                            <option>TPS 05</option>
+                                            <option>TPS 06</option>
+                                            <option>TPS 07</option>
+                                            <option>TPS 08</option>
+                                            <option>TPS 09</option>
+                                            <option>TPS 10</option>       
+                                        </select>
+                                    </div>
                                 </div>
     
                                 <div class="col-lg-3 col-md-6 col-sm-6">
                                     <div class="lawFirm--filter">
-                                        <!-- Area Select -->
+                                        <!-- RT -->
                                         <select class="form-control">
-                                            <option selected>Practice Areas</option>
-                                            <option>All</option>
-                                            <option>Corporate Law</option>
-                                            <option>Real State Law</option>
-                                            <option>Financial Law</option>
-                                            <option>Insurance Law</option>
-                                            <option>Envirrantment Law</option>
-                                            <option>Family Law</option>
+                                            <option selected>RT</option>
+                                                <option>RT 01</option>
+                                                <option>RT 02</option>
+                                                <option>RT 03</option>
+                                                <option>RT 04</option>
+                                                <option>RT 05</option>
+                                                <option>RT 06</option>
+                                                <option>RT 07</option>
+                                                <option>RT 08</option>
+                                                <option>RT 09</option>
+                                                <option>RT 10</option> 
                                         </select>
                                     </div>
                                 </div>
@@ -69,17 +86,19 @@
                                 <div class="col-lg-2 col-md-4 col-sm-6">
                                     <div class="lawFirm--filter">
                                         <!-- State Select -->
+                                        <!-- RT -->
                                         <select class="form-control">
-                                            <option selected> State </option>
-                                            <option>Washington, D.C</option>
-                                            <option>Hong Kong</option>
-                                            <option>Chicago</option>
-                                            <option>Beijing</option>
-                                            <option>Boston</option>
-                                            <option>London</option>
-                                            <option>San Francisco</option>
-                                            <option>New York</option>
-                                            <option>Los Angeles</option>
+                                            <option selected>RW</option>
+                                                <option>RW 01</option>
+                                                <option>RW 02</option>
+                                                <option>RW 03</option>
+                                                <option>RW 04</option>
+                                                <option>RW 05</option>
+                                                <option>RW 06</option>
+                                                <option>RW 07</option>
+                                                <option>RW 08</option>
+                                                <option>RW 09</option>
+                                                <option>RW 10</option> 
                                         </select>
                                     </div>
                                 </div>
@@ -87,16 +106,71 @@
                                     <div class="lawFirm--filter">
                                         <!-- Location Select -->
                                         <select class="form-control">
-                                            <option selected> Office Location</option>
-                                            <option>Washington, D.C</option>
-                                            <option>Hong Kong</option>
-                                            <option>Chicago</option>
-                                            <option>Beijing</option>
-                                            <option>Boston</option>
-                                            <option>London</option>
-                                            <option>San Francisco</option>
-                                            <option>New York</option>
-                                            <option>Los Angeles</option>
+                                            <option selected>Kelurahan</option>
+                                            <option>Baloi Permai</option>
+                                            <option>Belian</option>
+                                            <option>Sukajadi</option>
+                                            <option>Sungai Panas</option>
+                                            <option>Taman Baloi</option>
+                                            <option>Teluk Tering</option>
+                                            <option>Bukit Tempayan</option>
+                                            <option>Buliang</option>
+                                            <option>Kibing</option>
+                                            <option>Tanjung Uncang</option>
+                                            <option>Batu Merah</option>
+                                            <option>Kampung Seraya</option>
+                                            <option>Sungai Jodoh</option>
+                                            <option>Tanjung Sengkuang</option>
+                                            <option>Kasu</option>
+                                            <option>Pecong</option>
+                                            <option>Pemping</option>
+                                            <option>Pulau Terong</option>
+                                            <option>Sekanak Raya</option>
+                                            <option>Tanjung Sari</option>
+                                            <option>Bengkong Indah</option>
+                                            <option>Bengkong Laut</option>
+                                            <option>Sadai</option>
+                                            <option>Tanjung Buntung</option>
+                                            <option>Batu Legong</option>
+                                            <option>Bulang Lintang</option>
+                                            <option>Pantai Gelam</option>
+                                            <option>Pulau Buluh</option>
+                                            <option>Setokok</option>
+                                            <option>Temoyong</option>
+                                            <option>Air Raja</option>
+                                            <option>Galang Baru</option>
+                                            <option>Karas</option>
+                                            <option>Pulau Abang</option>
+                                            <option>Rempang Cate</option>
+                                            <option>Sembulang</option>
+                                            <option>Sijantung</option>
+                                            <option>Subang Mas</option>
+                                            <option>Baloi Indah</option>
+                                            <option>Batu Selicin</option>
+                                            <option>Kampung Pelita</option>
+                                            <option>Lubuk Baja Kota</option>
+                                            <option>Tanjung Uma</option>
+                                            <option>Batu Besar</option>
+                                            <option>Kabil</option>
+                                            <option>Ngenang</option>
+                                            <option>Sambau</option>
+                                            <option>Sagulung Kota</option>
+                                            <option>Sungai Binti</option>
+                                            <option>Sungai Langkai</option>
+                                            <option>Sungai Lekop</option>
+                                            <option>Sungai Pelunggut</option>
+                                            <option>Tembesi</option>
+                                            <option>Duriangkang</option>
+                                            <option>Mangsang</option>
+                                            <option>Muka Kuning</option>
+                                            <option>Tanjung Piayu</option>
+                                            <option>Patam Lestari</option>
+                                            <option>Sungai Harapan</option>
+                                            <option>Tanjung Pinggir</option>
+                                            <option>Tanjung Riau</option>
+                                            <option>Tiban Baru</option>
+                                            <option>Tiban Indah</option>
+                                            <option>Tiban Lama</option>
                                         </select>
                                     </div>
                                 </div>
