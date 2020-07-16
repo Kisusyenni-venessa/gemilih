@@ -855,13 +855,13 @@
                             <ul class="lawFirm--conact-options">
                                 <li class="mb-10">
                                     <i class="fa fa-map-marker"></i>
-                                    <strong> Address </strong>
+                                    <strong> Alamat </strong>
                                     <p>Sei Ladi, Jl. Gajah Mada, Baloi Permai, Kec. Sekupang, Kota Batam, Kepulauan Riau
                                         29442</p>
                                 </li>
                                 <li class="mb-10">
                                     <i class="fa fa-phone"></i>
-                                    <strong> Phone </strong>
+                                    <strong> Telepon </strong>
                                     <p>(0778) 7437111</p>
                                 </li>
                                 <li class="mb-10">
@@ -874,9 +874,9 @@
 
                             <!-- Social Links -->
                             <div class="lawFirm--contact-social-links">
-                                <span><i class="fa fa-globe"></i> Follow us </span>
+                                <span><i class="fa fa-globe"></i> Ikuti Sosial Media Kami </span>
                                 <a href="https://www.instagram.com/gemilih_batam/" target="_blank"><i
-                                        class="fa fa-instagram"></i></a>
+                                        class="fa fa-instagram"></i>gemilih_batam</a>
                                 <!-- <a href="#"><i class="fa fa-twitter"></i></a>
                                 <a href="#"><i class="fa fa-linkedin"></i></a>
                                 <a href="#"><i class="fa fa-youtube"></i></a> -->
@@ -884,73 +884,6 @@
                             <!-- End of Social Links -->
                         </div>
                         <!-- End of New York -->
-
-                        <!-- Hong Kong -->
-                        <div class="tab-pane" id="hong-kong" role="tabpanel" aria-labelledby="hong-kong-area">
-                            <ul class="lawFirm--conact-options">
-                                <li class="mb-10">
-                                    <i class="fa fa-map-marker"></i>
-                                    <strong> Address </strong>
-                                    <p>Larch Street Tai Kok Tsui Kowloon 852 Hong Kong</p>
-                                </li>
-                                <li class="mb-10">
-                                    <i class="fa fa-phone"></i>
-                                    <strong> Phone </strong>
-                                    <p>+1212-446-4400 & +1212-446-8800</p>
-                                </li>
-                                <li class="mb-10">
-                                    <i class="fa fa-envelope"></i>
-                                    <strong> Email </strong>
-                                    <p>youremail@mailcom & info@gmail.com</p>
-                                </li>
-                            </ul>
-                            <!-- End of Contact Options -->
-
-                            <!-- Social Links -->
-                            <div class="lawFirm--contact-social-links">
-                                <span><i class="fa fa-globe"></i> Follow us </span>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
-                            </div>
-                            <!-- End of Social Links -->
-                        </div>
-                        <!-- End of Hong Kong -->
-
-                        <!-- Chicago -->
-                        <div class="tab-pane" id="chicago" role="tabpanel" aria-labelledby="chicago-area">
-                            <!-- Contact Options -->
-                            <ul class="lawFirm--conact-options">
-                                <li class="mb-10">
-                                    <i class="fa fa-map-marker"></i>
-                                    <strong> Address </strong>
-                                    <p>295 Rebecca Street Chicago 2099 United States</p>
-                                </li>
-                                <li class="mb-10">
-                                    <i class="fa fa-phone"></i>
-                                    <strong> Phone </strong>
-                                    <p>+1212-446-4400 & +1212-446-8800</p>
-                                </li>
-                                <li class="mb-10">
-                                    <i class="fa fa-envelope"></i>
-                                    <strong> Email </strong>
-                                    <p>youremail@mailcom & info@gmail.com</p>
-                                </li>
-                            </ul>
-                            <!-- End of Contact Options -->
-
-                            <!-- Social Links -->
-                            <div class="lawFirm--contact-social-links">
-                                <span><i class="fa fa-globe"></i> Follow us </span>
-                                <a href="https://www.instagram.com/gemilih_batam/"><i class="fa fa-instagram"></i></a>
-                                <!-- <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a> -->
-                            </div>
-                            <!-- End of Social Links -->
-                        </div>
-                        <!-- End of Chicago -->
                     </div>
                 </div>
 
