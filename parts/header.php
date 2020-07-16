@@ -20,8 +20,9 @@
                             <ul>
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="about.php">About</a></li>
-                                <li><a href="practice-area.html">Service</a></li>
-                                <li class="menu-item-has-children"><a href="#">Page</a>
+                                <li><a href="kandidat.php">Kandidat</a></li>
+                                <li><a href="hasil-pilkada.php">Hasil Pilkada</a></li>
+                                <!-- <li class="menu-item-has-children"><a href="#">Page</a>
                                     <ul class="sub-menu">
                                         <li class="menu-item-has-children"><a href="#">Lawyers</a>
                                             <ul class="sub-menu">
@@ -38,8 +39,8 @@
                                         <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
                                         <li><a href="blog-details.html">Blog Details</a></li>
                                     </ul>
-                                </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                </li> -->
+                                <li><a href="hubungi-kami.php">Hubungi Kami</a></li>
                             </ul>
                         </div>
                         <!-- End of Nav Menu -->
@@ -84,11 +85,9 @@
 
             <!-- About us -->
             <div class="lawFirm--about-in-canvas pt-20 pb-20">
-                <h3 class="pb-20">About us</h3>
-                <p class="pb-20">Lorem ipsum sit amet, consectetur ut adipiscing elit, sed do ut eiusmod sed tempor
-                    incididunt labore et dolore magna aliqua. Quis ipsum sus ultrices gravida. Risus commodo maecenas
-                    accumsan lacus.</p>
-                <a href="#" class="lawFirm--btn">Contact Us</a>
+                <h3 class="pb-20">Mengenai Gemilih</h3>
+                <p class="pb-20">Gemilih (Generasi Milenial Memilih) merupakan projek SEPORA 2020 yang bertujuan untuk mengajak generasi milenial turut ikut serta menggunakan hak pilihnya pada Pilkada Serentak 2020 yang akan dilaksanakan pada 9 Desember 2020 nanti.</p>
+                <a href="about.php" class="lawFirm--btn">Contact Us</a>
             </div>
             <!-- End of About us-->
 
@@ -110,10 +109,11 @@
             <div class="lawFirm--contact-in-canvas ul-default pt-40">
                 <h3 class="pb-20">Contact Info</h3>
                 <ul>
-                    <li class="pb-20 pl-30"><i class="fa fa-map-marker"></i> Kirkland 601 Lexington Avenue New York, NY
-                        10022 United States</li>
-                    <li class="pb-20 pl-30"><i class="fa fa-phone"></i> +1212-446-4400 </li>
-                    <li class="pb-20 pl-30"><i class="fa fa-envelope"></i> youremail@mail.com </li>
+                    <li class="pb-20 pl-30"><i class="fa fa-map-marker"></i> Sei Ladi, Jl. Gajah Mada, Baloi Permai, Kec. Sekupang, Kota Batam, Kepulauan Riau 29442</li>
+                    <li class="pb-20 pl-30"><i class="fa fa-phone"></i> (0778) 7437111 </li>
+                    <li class="pb-20 pl-30"><i class="fa fa-envelope"></i> gemilih_batam@gmail.com </li>
+                    <li class="pb-20 pl-30"><a href="https://www.instagram.com/gemilih_batam/" target="_blank"><i
+                                        class="fa fa-instagram"></i>gemilih_batam</a></li>
                 </ul>
             </div>
             <!-- End of Contact Info -->

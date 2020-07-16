@@ -4,7 +4,7 @@
             <div class="col-md-5 order-3 order-md-1">
                 <!-- Footer Cradit -->
                 <div class="lawFirm-footer-cradit text-center text-md-left">
-                    Copyright 2020 &copy; Developed by <a href="#">2GAME (GEMILIH) UIB</a>
+                    Copyright 2020 &copy; Developed by <a href="#">2GAME (GEMILIH) UIB</a> and TeamLooks
                 </div>
                 <!-- End of Footer Cradit -->
             </div>
@@ -21,10 +21,9 @@
                 <!-- Footer Menu -->
                 <div class="lawFirm--footer-menu ul-default">
                     <ul>
-                        <li><a href="index.html"> Home </a></li>
-                        <li><a href="about.html"> About </a></li>
-                        <li><a href="practice-area.html"> Service </a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="index.php"> Home </a></li>
+                        <li><a href="about.php"> About </a></li>
+                        <li><a href="hubungi-kami.php">Contact</a></li>
                     </ul>
                 </div>
                 <!-- End of Footer Menu -->
