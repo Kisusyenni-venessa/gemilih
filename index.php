@@ -235,9 +235,9 @@
     <div class="lawFirm--working-process pt-120 pb-120 lawFirm--left-back-circle">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6">
+                <div class="col-lg-6 text-center mb-lg-0 mb-5">
                     <!-- Working Process Image -->
-                    <iframe width="560" height="419" src="https://www.youtube.com/embed/ofva9Cm6KbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="420" src="https://www.youtube.com/embed/ofva9Cm6KbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <!-- <div class="lawFirm--w-process-image">
                         <div class="lawFirm--image-effect">
                             <img src="assets/images/w-process-images/group.jpg" alt="" class="img-fluid" data-rjs="2">
@@ -260,7 +260,6 @@
                             <div class="lawFirm--acc-item">
                                 <div class="target-area active" id="target-area">
                                     <h3 class="pb-25" data-toggle="collapse" data-target="#expand-area-1" aria-expanded="true" aria-controls="expand-area-1">
-<<<<<<< HEAD
                                         Apa itu Pilkada? <span></span>
                                     </h3>
                                 </div>
@@ -273,13 +272,6 @@
                                             <li>Walikota dan wakil walikota untuk kota</li>
                                         </ul>
                                     </p>
-=======
-                                        Apa itu Pilkada <span></span>
-                                    </h3>
-                                </div>
-                                <div id="expand-area-1" class="collapse expand-area show" aria-labelledby="target-area" data-parent="#lawFirm--accordion">
-                                    <p class="pb-30 mb-0">Pemilihan kepala daerah (Pilkada atau Pemilukada) dilakukan secara langsung oleh penduduk daerah administratif setempat yang memenuhi syarat. Pemilihan kepala daerah dilakukan satu paket bersama dengan wakil kepala daerah. Kepala daerah dan wakil kepala daerah yang dimaksud mencakup: Gubernur, Bupati, Dan Wali kota.</p>
->>>>>>> fd5eeae8a1620399b40d6737cd7888438048d973
                                 </div>
                             </div>
                             <!-- End of Working Process Item 01 -->
@@ -288,20 +280,12 @@
                             <div class="lawFirm--acc-item">
                                 <div class="target-area">
                                     <h3 class="collapsed pt-25 pb-25" data-toggle="collapse" data-target="#expand-area-2" aria-expanded="false" aria-controls="expand-area-2">
-<<<<<<< HEAD
                                         Sudahkah Anda Terdaftar Sebagai Pemilih? <span></span>
                                     </h3>
                                 </div>
                                 <div id="expand-area-2" class="collapse expand-area" aria-labelledby="target-area" data-parent="#lawFirm--accordion">
                                     <p class="pb-30 mb-0">Jelang Pemilihan Kepala Daerah atau Pilkada 2020, masyarakat disarankan mengecek apakah dirinya sudah terdaftar menjadi pemilih atau belum. Pengecekan cukup klik di <a href="https://www.lindungihakpilihmu.kpu.go.id/">www.lindungihakpilihmu.kpu.go.id</a>.</p>
                                     <p>Apabila belum terdaftar, segera mendatangi Posko Pengaduan DPS/DPT di masing-masing daerahnya. Lalu dapat mendaftarkan diri dengan cara membawa KTP Elektronik yang asli untuk ditunjukkan kepada pengawas pilkada, dan menyerahkan fotocopynya.</p>
-=======
-                                        Penyelenggaraan <span></span>
-                                    </h3>
-                                </div>
-                                <div id="expand-area-2" class="collapse expand-area" aria-labelledby="target-area" data-parent="#lawFirm--accordion">
-                                    <p class="pb-30 mb-0">Pilkada diselenggarakan oleh Komisi Pemilihan Umum (KPU) Provinsi dan KPU Kabupaten/Kota dengan diawasi oleh Badan Pengawas Pemilihan Umum (Bawaslu) Provinsi dan Bawaslu Kabupaten/Kota.Khusus di Aceh, Pilkada diselenggarakan oleh Komisi Independen Pemilihan (KIP) dengan diawasi oleh Panitia Pengawas Pemilihan (Panwaslih).</p>
->>>>>>> fd5eeae8a1620399b40d6737cd7888438048d973
                                 </div>
                             </div>
                             <!-- End of Working Process Item 02 -->
@@ -310,15 +294,12 @@
                             <div class="lawFirm--acc-item">
                                 <div class="target-area">
                                     <h3 class="collapsed pt-25 pb-25" data-toggle="collapse" data-target="#expand-area-3" aria-expanded="false" aria-controls="expand-area-3">
-<<<<<<< HEAD
-                                        Kapan Pilkada Serentak 2020 akan Dilaksanakan?<span></span>
-=======
-                                        Peserta <span></span>
->>>>>>> fd5eeae8a1620399b40d6737cd7888438048d973
+                                        Siapakah Peserta Pilkada? <span></span>
                                     </h3>
                                 </div>
                                 <div id="expand-area-3" class="collapse expand-area" aria-labelledby="target-area" data-parent="#lawFirm--accordion">
-                                    <p class="pb-30 mb-0">Berdasarkan Undang-Undang Nomor 32 Tahun 2004, peserta pilkada adalah pasangan calon yang diusulkan oleh partai politik atau gabungan partai politik. Ketentuan ini diubah dengan Undang-Undang Nomor 12 Tahun 2008 yang menyatakan bahwa peserta pilkada juga dapat berasal dari pasangan calon perseorangan yang didukung oleh sejumlah orang. Undang-undang ini menindaklanjuti keputusan Mahkamah Konstitusi (MK) yang membatalkan beberapa pasal menyangkut peserta Pilkada dalam Undang-Undang Nomor 32 Tahun 2004. Khusus di Aceh, peserta Pilkada juga dapat diusulkan oleh partai politik lokal .</p>
+                                    <p class="pb-30 mb-0">Berdasarkan Undang-Undang Nomor 32 Tahun 2004, peserta pilkada adalah pasangan calon yang diusulkan oleh partai politik atau gabungan partai politik. Ketentuan ini diubah dengan Undang-Undang Nomor 12 Tahun 2008 yang menyatakan bahwa peserta pilkada juga dapat berasal dari pasangan calon perseorangan yang didukung oleh sejumlah orang. Undang-undang ini menindaklanjuti keputusan Mahkamah Konstitusi (MK) yang membatalkan beberapa pasal menyangkut peserta Pilkada dalam Undang-Undang Nomor 32 Tahun 2004. Khusus di Aceh, peserta Pilkada juga dapat diusulkan oleh partai politik lokal.</p>
+                                    <p>Klik <a href="kandidat.php">Peserta Pilkada</a> untuk melihat para kandidat Pilkada Serentak 2020</p>
                                 </div>
                             </div>
                             <!-- End of Working Process Item 03 -->
@@ -770,206 +751,11 @@
 <!-- Internship -->
 <div class="lawFirm--internship pt-120 pb-120 lawFirm--bg-overlay lawFirm--bg-center" data-bg-img="assets/images/internship-bg.jpg">
         <div class="container">
-<<<<<<< HEAD
-            <!-- Section Title -->
-            <div class="lawFirm--section-title text-center">
-                <h2>We Are Great Team. <span></span></h2>
-            </div>
-            <!-- End of Section Title -->
-
-            <!-- Team Slider -->
-            <div class="lawFirm--team-slider owl-carousel" data-owl-items="4" data-owl-nav="true" data-owl-margin="30" data-owl-responsive='{"0": {"items": "1"}, "480": {"items": "2"},"992": {"items": "3"},"1200": {"items": "4"}}'>
-                <!-- Team Slider Item 01 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 01 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/yohana.png" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 01 Image -->
-                    
-                    <!-- Item 01 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Yohana Juwitasari </a></h4>
-                        <p>1941323</p>
-                    </div>
-                    <!-- End of Item 01 Text -->
-                </div>
-                <!-- End of Team Slider Item 01 -->
-                
-                <!-- Team Slider Item 02 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 02 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/tomy.png" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 02 Image -->
-                    
-                    <!-- Item 02 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Tomy </a> </h4>
-                        <p>1931066</p>
-                    </div>
-                    <!-- End of Item 02 Text -->
-                </div>
-                <!-- End of Team Slider Item 02 -->
-
-                <!-- Team Slider Item 03 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 03 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/steven.png" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 03 Image -->
-                    
-                    <!-- Item 03 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Steven Salim </a> </h4>
-                        <p>1931144</p>
-                    </div>
-                    <!-- End of Item 03 Text -->
-                </div>
-                <!-- End of Team Slider Item 03 -->
-
-                <!-- Team Slider Item 04 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 04 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/kisus.png" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 04 Image -->
-                    
-                    <!-- Item 04 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Kisusyenni Venessa </a> </h4>
-                        <p>1931150</p>
-                    </div>
-                    <!-- End of Item 04 Text -->
-                </div>
-                <!-- End of Team Slider Item 04 -->
-
-                <!-- Team Slider Item 05 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 05 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/henny.png" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 05 Image -->
-                    
-                    <!-- Item 05 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Henny </a> </h4>
-                        <p>1941307</p>
-                    </div>
-                    <!-- End of Item 05 Text -->
-                </div>
-                <!-- End of Team Slider Item 05 -->
-                
-                <!-- Team Slider Item 06 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 06 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/alice.png" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 06 Image -->
-                    
-                    <!-- Item 06 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Alice </a> </h4>
-                        <p>1941353</p>
-                    </div>
-                    <!-- End of Item 06 Text -->
-                </div>
-                <!-- End of Team Slider Item 06 -->
-
-                <!-- Team Slider Item 07 -->
-                <div class="lawFirm--team-slider-item">
-                    <!-- Item 07 Image -->
-                    <div class="lawFirm--team-slider-item-image">
-                        <!-- Image -->
-                        <img src="assets/images/team-images/person-3.jpg" alt="" class="img-fluid" data-rjs="2">
-                        <!-- End of Image -->
-                        <!-- Social Links-->
-                        <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
-                        </div>
-                        <!-- End of Social Links-->
-                    </div>
-                    <!-- End of Item 07 Image -->
-                    
-                    <!-- Item 07 Text-->
-                    <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Vienna Tanisya </a> </h4>
-                        <p>1942184</p>
-=======
             <div class="row align-items-center">
                 <div class="col-lg-8">
                     <!-- Internship Text -->
                     <div class="lawFirm--internship-text">
                         <h2>"Semua hrs berperan utk majukan daerahnya masing masing, minimal dgn ikut nyoblos. Bukan diam."</h2>
->>>>>>> fd5eeae8a1620399b40d6737cd7888438048d973
                     </div>
                     <!-- End of Internship Text -->
                 </div>

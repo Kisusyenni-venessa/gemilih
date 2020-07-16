@@ -11,8 +11,6 @@
     <?php include_once("parts/header.php")?>
     <!-- End of Main Header -->
 
-    <!-- 
-
     <!-- Page title -->
     <div class="lawFirm--page-title text-center lawFirm--bg-center" data-bg-img="assets/images/page-title-bg.png">
         <div class="container">
@@ -119,7 +117,7 @@
                     <!-- Item 04 Image -->
                     <div class="lawFirm--team-slider-item-image">
                         <!-- Image -->
-                        <img src="assets/images/team-images/person-4.jpg" alt="" class="img-fluid" data-rjs="2">
+                        <img src="assets/images/team-images/kisus.png" alt="" class="img-fluid" data-rjs="2">
                         <!-- End of Image -->
                         <!-- Social Links-->
                         <div class="social-links">
