@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-5 order-3 order-md-1">
-                <!-- Footer Cradit -->
+                <!-- Footer Credit -->
                 <div class="lawFirm-footer-cradit text-center text-md-left">
-                    Copyright 2020 &copy; Developed by <a href="#">2GAME (GEMILIH) UIB</a> and TeamLooks
+                    Copyright 2020 &copy; Developed by <a href="#">2GAME (GEMILIH) UIB</a>
                 </div>
-                <!-- End of Footer Cradit -->
+                <!-- End of Footer Credit -->
             </div>
 
             <div class="col-md-2 order-1 order-md-2 d-flex justify-content-center">
@@ -18,15 +18,11 @@
             </div>
 
             <div class="col-md-5 order-2 order-md-3 text-center text-md-right">
-                <!-- Footer Menu -->
-                <div class="lawFirm--footer-menu ul-default">
-                    <ul>
-                        <li><a href="index.php"> Home </a></li>
-                        <li><a href="about.php"> About </a></li>
-                        <li><a href="hubungi-kami.php">Contact</a></li>
-                    </ul>
+               <!-- Footer Credit -->
+               <div class="lawFirm-footer-cradit text-center text-md-right">
+                    &copy;TeamLooks
                 </div>
-                <!-- End of Footer Menu -->
+                <!-- End of Footer Credit -->
             </div>
 
         </div>
