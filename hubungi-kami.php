@@ -12,7 +12,7 @@
     <!-- End of Main Header -->
     
     <!-- Page title -->
-    <div class="lawFirm--page-title text-center lawFirm--bg-center" data-bg-img="assets/images/page-title-bg.png">
+    <div class="lawFirm--page-title text-center lawFirm--bg-center" data-bg-img="assets/images/lokasi-img/header-bg.png">
         <div class="container">
             <h2 class="pb-20">Hubungi Kami</h2>
             <div class="title-bc"> <a href="#">Beranda</a> > <span>Hubungi Kami</span></div>
@@ -24,7 +24,7 @@
     <div class="lawFirm--contact pt-120 pb-120">
         <div class="container">
             <div class="lawFirm--section-title text-left">
-                <h2> Let Us Know What’s Your <br> Problem <span></span></h2>
+                <h2>Apabila Ada Pertanyaan<br> Silahkan Hubungi Kami <span></span></h2>
             </div>
 
             <div class="row">
@@ -55,7 +55,7 @@
                                 </li>
                                 <li class="mb-10">
                                     <i class="fa fa-phone"></i> 
-                                    <strong> Phone </strong>
+                                    <strong> Telepon</strong>
                                     <p>+62-778-8011-963</p>
                                 </li>
                                 <li class="mb-10">
