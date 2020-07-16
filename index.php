@@ -309,7 +309,7 @@
         <div class="container">
             <!-- Section Title -->
             <div class="lawFirm--section-title text-left">
-                <h2>Keuntungan Berpartisipasi Dalam <br> Pilkada Serentak <span></span></h2>
+                <h2>Asas yang di anut dalam <br> Pilkada Serentak <span></span></h2>
             </div>
             <!-- End of Section Title -->
             <div class="lawFirm--service-slider lawFirm--slider-right-nav owl-carousel" data-owl-items="2" data-owl-margin="30" data-owl-nav="true" data-owl-responsive='{"0": {"items": "1"}, "480": {"items": "2"}}'>
@@ -327,8 +327,8 @@
                         <div class="col-lg-6">
                             <!-- Service Slider Item 01 Text -->
                             <div class="lawFirm--service-slider-item-text pt-40 pb-40 pl-10 pr-30">
-                                <h3 class="mb-25">Implementasi Perwujudan Kedaulatan Rakyat</h3>
-                                <p>Pemilu merupakan implementasi perwujudan kedaulatan rakyat. Sistem demokrasi mempunyai asumsi kalau kedaulatan terletak di tangan rakyat.</p>
+                                <h3 class="mb-25">Langsung</h3>
+                                <p>Berarti pemilih diharuskan memberikan suaranya secara langsung dan tidak boleh diwakilkan.</p>
                                 <a href="#" class="btn mt-30">Read More <img src="assets/images/rm-arrow.svg" alt="" class="svg svg-btn"></a>
                             </div>
                             <!-- End of Service Slider Item 01 Text -->
@@ -351,8 +351,8 @@
                         <div class="col-lg-6">
                             <!-- Service Slider Item 02 Text -->
                             <div class="lawFirm--service-slider-item-text pt-40 pb-40 pl-10 pr-30">
-                                <h3 class="mb-35">Real State Law</h3>
-                                <p>Real estate brokers, agents and sales people are licensed and regulated.</p>
+                                <h3 class="mb-35">Umum</h3>
+                                <p>berarti pemilihan umum dapat diikuti seluruh warga negara yang sudah memiliki hak menggunakan suara.</p>
                                 <a href="#" class="btn mt-30">Read More <img src="assets/images/rm-arrow.svg" alt="" class="svg svg-btn"></a>
                             </div>
                             <!-- End of Service Slider Item 02 Text -->
@@ -375,8 +375,8 @@
                         <div class="col-lg-6">
                             <!-- Service Slider Item 03 Text -->
                             <div class="lawFirm--service-slider-item-text pt-40 pb-40 pl-10 pr-30">
-                                <h3 class="mb-25">Corporate Law</h3>
-                                <p>Corporate law is the body of laws, rules, regulations and practices that govern.</p>
+                                <h3 class="mb-25">Bebas</h3>
+                                <p>Berarti pemilih diharuskan memberikan suaranya tanpa ada paksaan dari pihak manapun.</p>
                                 <a href="#" class="btn mt-30">Read More <img src="assets/images/rm-arrow.svg" alt="" class="svg svg-btn"></a>
                             </div>
                             <!-- End of Service Slider Item 03 Text -->
@@ -399,8 +399,8 @@
                         <div class="col-lg-6">
                             <!-- Service Slider Item 04 Text -->
                             <div class="lawFirm--service-slider-item-text pt-40 pb-40 pl-10 pr-30">
-                                <h3 class="mb-35">Real State Law</h3>
-                                <p>Real estate brokers, agents and sales people are licensed and regulated.</p>
+                                <h3 class="mb-35">Rahasia</h3>
+                                <p>Berarti suara yang diberikan oleh pemilih bersifat rahasia hanya diketahui oleh si pemilih itu sendiri.</p>
                                 <a href="#" class="btn mt-30">Read More <img src="assets/images/rm-arrow.svg" alt="" class="svg svg-btn"></a>
                             </div>
                             <!-- End of Service Slider Item 04 Text -->
