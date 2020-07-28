@@ -16,14 +16,13 @@
         <div class="lawFirm--widget ul-default mb-50">
             <!-- Widget title -->
             <div class="lawFirm--widget-title text-left">
-                <h2>Categories <span></span></h2>
+                <h2>Kategori<span></span></h2>
             </div>
             <ul>
-                <li><a href="#">All Blog List</a></li>
-                <li><a href="#">Best Blog List</a></li>
-                <li><a href="#">All Service List</a></li>
-                <li><a href="#">Best Attorney List</a></li>
-                <li><a href="#">All Attorney List</a></li>
+                <li><a href="#">Seluruh Berita</a></li>
+                <li><a href="#">Berita Terbaru</a></li>
+                <li><a href="#">Berita Pilkada 2020</a></li>
+                <li><a href="#">Berita Kandidat</a></li>
             </ul>
         </div>
         <!-- End of Widget Start -->
@@ -32,19 +31,19 @@
         <div class="lawFirm--widget ul-default mb-50">
             <!-- Widget Title -->
             <div class="lawFirm--widget-title text-left">
-                <h2>Latest Blogs <span></span></h2>
+                <h2>Berita Terkini<span></span></h2>
             </div>
             <!-- Single Sidebar Blog -->
             <div class="lawFirm--sidebar-blog">
                 <div class="row no-gutters">
                     <div class="col-md-4 col-sm-2 col-3">
-                        <a href="#"><img src="assets/images/blog-images/blog-small-1.jpg" alt="" class="img-fluid"
+                        <a href="#"><img src="assets/images/news-img/news1.jpg" alt="" class="img-fluid"
                                 data-rjs="2"></a>
                     </div>
                     <div class="col-md-8 col-sm-10 col-7">
                         <div class="pl-20">
-                            <a href="#">05 February, 2019</a>
-                            <h3><a href="#">Lorem ipsum dolor amet, consectetur</a></h3>
+                            <a href="#">Jumat, 10 Juli 2020 15:39 WIB</a>
+                            <h3><a href="#">KPU Batam tetap lanjutkan verifikasi faktual Rian Ernest</a></h3>
                         </div>
                     </div>
                 </div>
@@ -55,13 +54,13 @@
             <div class="lawFirm--sidebar-blog">
                 <div class="row no-gutters">
                     <div class="col-md-4 col-sm-2 col-3">
-                        <a href="#"><img src="assets/images/blog-images/blog-small-2.jpg" alt="" class="img-fluid"
+                        <a href="#"><img src="assets/images/news-img/news2.jpg" alt="" class="img-fluid"
                                 data-rjs="2"></a>
                     </div>
                     <div class="col-md-8 col-sm-10 col-7">
                         <div class="pl-20">
-                            <a href="#">05 February, 2019</a>
-                            <h3><a href="#">Lorem ipsum dolor amet, consectetur</a></h3>
+                            <a href="#">Minggu, 28 Juni 2020 16:32 WIB</a>
+                            <h3><a href="#">KPU Batam Verifikasi Faktual Dukungan Rian Ernest-Yusiani Gurusinga</a></h3>
                         </div>
                     </div>
                 </div>
@@ -72,13 +71,13 @@
             <div class="lawFirm--sidebar-blog">
                 <div class="row no-gutters">
                     <div class="col-md-4 col-sm-2 col-3">
-                        <a href="#"><img src="assets/images/blog-images/blog-small-3.jpg" alt="" class="img-fluid"
+                        <a href="#"><img src="assets/images/news-img/news3.jpg" alt="" class="img-fluid"
                                 data-rjs="2"></a>
                     </div>
                     <div class="col-md-8 col-sm-10 col-7">
                         <div class="pl-20">
-                            <a href="#">05 February, 2019</a>
-                            <h3><a href="#">Lorem ipsum dolor amet, consectetur</a></h3>
+                            <a href="#">Kamis, 02 Juli 2020 16:24 WIB</a>
+                            <h3><a href="#">KPU Kota Batam dapat Tambahan Anggaran Pilkada Rp 1,5 Miliar</a></h3>
                         </div>
                     </div>
                 </div>
@@ -93,10 +92,10 @@
                 <h2>Tags <span></span></h2>
             </div>
             <ul>
-                <li><a href="#">Law Firm</a></li>
-                <li><a href="#">Attorney</a></li>
-                <li><a href="#">Legal Service</a></li>
-                <li><a href="#">Lawyer</a></li>
+                <li><a href="#">Pilkada 2020</a></li>
+                <li><a href="#">Generasi Milenial</a></li>
+                <li><a href="#">Pilkada Serentak</a></li>
+                <li><a href="#">Indonesia Maju</a></li>
             </ul>
         </div>
         <!-- End of Widget -->
