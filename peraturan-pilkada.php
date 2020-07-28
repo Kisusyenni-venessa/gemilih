@@ -25,7 +25,7 @@
     <!-- Policy -->
     <div class="container pt-120 pb-90">
         <div class="lawFirm--practice-area">
-            <h2>Kumpulan Peraturan Tentang Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota</h2>
+            <h2 class="pb-20">Kumpulan Peraturan Tentang Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota</h2>
             <div class="row">
                 <!-- Practice Item -->
                 <div class="col-lg-4 col-md-6">

@@ -25,7 +25,7 @@
     <!-- Calendar -->
     <div class="container pt-120 pb-70">
         <header>
-            <h4 class="display-4 mb-4 text-center">Agustus 2020</h4>
+            <h4 class="display-4 mb-4 text-center">Desember 2020</h4>
             <div class="row d-none d-sm-flex p-1 bg-dark text-white">
                 <h5 class="col-sm p-1 text-center text-white">Minggu</h5>
                 <h5 class="col-sm p-1 text-center text-white">Senin</h5>
