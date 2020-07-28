@@ -45,7 +45,7 @@
                         <!-- Filter Search Form -->
                         <form>
                             <div class="row half-gutters">
-                                <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="col-lg-3 col-md-4 col-sm-6">
                                 <div class="lawFirm--filter">
                                         <!-- TPS -->
                                         <select class="form-control">
@@ -64,41 +64,21 @@
                                     </div>
                                 </div>
     
-                                <div class="col-lg-3 col-md-6 col-sm-6">
-                                    <div class="lawFirm--filter">
-                                        <!-- RT -->
-                                        <select class="form-control">
-                                            <option selected>RT</option>
-                                                <option>RT 01</option>
-                                                <option>RT 02</option>
-                                                <option>RT 03</option>
-                                                <option>RT 04</option>
-                                                <option>RT 05</option>
-                                                <option>RT 06</option>
-                                                <option>RT 07</option>
-                                                <option>RT 08</option>
-                                                <option>RT 09</option>
-                                                <option>RT 10</option> 
-                                        </select>
-                                    </div>
-                                </div>
-    
                                 <div class="col-lg-2 col-md-4 col-sm-6">
                                     <div class="lawFirm--filter">
-                                        <!-- State Select -->
                                         <!-- RT -->
                                         <select class="form-control">
-                                            <option selected>RW</option>
-                                                <option>RW 01</option>
-                                                <option>RW 02</option>
-                                                <option>RW 03</option>
-                                                <option>RW 04</option>
-                                                <option>RW 05</option>
-                                                <option>RW 06</option>
-                                                <option>RW 07</option>
-                                                <option>RW 08</option>
-                                                <option>RW 09</option>
-                                                <option>RW 10</option> 
+                                            <option selected>RT/RW</option>
+                                                <option>01/01</option>
+                                                <option>01/02</option>
+                                                <option>02/04</option>
+                                                <option>05/06</option>
+                                                <option>07/07</option>
+                                                <option>07/08</option>
+                                                <option>08/09</option>
+                                                <option>09/10</option>
+                                                <option>11/12</option>
+                                                <option>12/13</option> 
                                         </select>
                                     </div>
                                 </div>
@@ -171,6 +151,26 @@
                                             <option>Tiban Baru</option>
                                             <option>Tiban Indah</option>
                                             <option>Tiban Lama</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 col-sm-6">
+                                    <div class="lawFirm--filter">
+                                        <!-- Location Select -->
+                                        <select class="form-control">
+                                            <option selected>Kecamatan</option>
+                                            <option>Batam Kota</option>
+                                            <option>Batu Aji</option>
+                                            <option>Batu Ampar</option>
+                                            <option>Belakang Padang</option>
+                                            <option>Bengkong</option>
+                                            <option>Bulang</option>
+                                            <option>Galang</option>
+                                            <option>Lubuk Baja</option>
+                                            <option>Nongsa</option>
+                                            <option>Sagulung</option>
+                                            <option>Sei Beduk</option>
+                                            <option>Sekupang</option>
                                         </select>
                                     </div>
                                 </div>
