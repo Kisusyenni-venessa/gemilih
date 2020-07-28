@@ -24,11 +24,73 @@ font-family: 'Open Sans', sans-serif; --> text
 .lawFirm--filter-search {
     box-shadow: 0px 5px 20px 0 rgba(193, 31, 31 , 0.5);
 }
-
+/* Navbar */
+.lawFirm--navbar-cover.sticky {
+    z-index: 500;
+}
 /* Index */
 .lawFirm--w-process-items .lawFirm--acc-item .expand-area ul {
     list-style: disc;
 }
 .lawFirm--w-process-items .lawFirm--acc-item .expand-area ul li {
     margin-left: 5px;
+}
+
+/* Lokasi TPS */
+.nice-select .list {
+    max-height: 150px;
+    overflow-y: scroll;
+}
+
+/* Tahapan Pilkada */
+ul.timeline {
+    list-style-type: none;
+    position: relative;
+}
+ul.timeline:before {
+    content: ' ';
+    background: #d4d9df;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    width: 2px;
+    height: 100%;
+    z-index: 400;
+}
+ul.timeline > li {
+    margin: 20px 0;
+    padding-left: 30px;
+}
+ul.timeline > li:before {
+    content: ' ';
+    background: white;
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+    border: 3px solid var(--primary-color);;
+    left: 0px;
+    width: 20px;
+    height: 20px;
+    z-index: 400;
+}
+
+/* Kalender Pilkada */
+@media (max-width:575px) {
+    .display-4 {
+        font-size: 1.5rem;
+    }
+    .day h5 {
+        background-color: #f8f9fa;
+        padding: 3px 5px 5px;
+        margin: -8px -8px 8px -8px;
+    }
+    .date {
+        padding-left: 4px;
+    }
+}
+
+@media (min-width: 576px) {
+    .day {
+        height: 14.2857vw;
+    }
 }

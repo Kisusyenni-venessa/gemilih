@@ -12,7 +12,7 @@
     <!-- End of Main Header -->
 
     <!-- Page title -->
-    <div class="lawFirm--page-title text-center lawFirm--bg-center" data-bg-img="assets/images/page-title-bg.png">
+    <div class="lawFirm--page-title text-center lawFirm--bg-center" data-bg-img="assets/images/lokasi-img/header-bg.png">
         <div class="container">
             <h2 class="pb-20">About Gemilih</h2>
             <div class="title-bc"> <a href="index.php">Home</a> > <span>About Gemilih </span></div>
