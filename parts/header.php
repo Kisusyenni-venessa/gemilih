@@ -19,33 +19,28 @@
                         <div class="lawFirm--nav-menu ul-default">
                             <ul>
                                 <li><a href="index.php">Home</a></li>
-                                <li><a href="kandidat.php">Kandidat</a></li>
-                                <li><a href="hasil-pilkada.php">Hasil Pilkada</a></li>
-                                <!-- <li class="menu-item-has-children"><a href="#">Page</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item-has-children"><a href="#">Lawyers</a>
+                                <li class="menu-item-has-children"><a>About</a>
                                     <ul class="sub-menu">
-                                        <li><a href="lawyers.html">Lawyers List</a></li>
-                                        <li><a href="lawyer-details.html">Lawyers Details</a></li>
+                                        <li><a href="tahapan-pilkada.php">Tahapan Pilkada</a></li>
+                                        <li><a href="peraturan-pilkada.php">Peraturan Pilkada</a></li>
+                                        <li><a href="kalender-pilkada.php">Kalender Pilkada</a></li>
+                                        <li><a href="lokasi-tps.php">Lokasi TPS</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="search-result.html"> Search Result</a></li>
-                                <li><a href="404.html">404</a></li>
+                                <li><a href="kandidat.php">Kandidat</a></li>
+                                <li class="menu-item-has-children"><a>Hasil Pilkada</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="hasil-pilkada.php">Hasil Pilkada</a></li>
+                                        <li><a href="hasil-pilkada-belum-ada.php">Hasil Pilkada (Belum Ada)</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="hubungi-kpu.php">Hubungi KPU</a></li>
+                                <li><a href="gemilih-team.php">Gemilih Team</a></li>
                             </ul>
-                        </li>
-                        <li class="menu-item-has-children"><a href="#">Blog</a>
-                        <ul class="sub-menu">
-                            <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul>
-                    </li> -->
-                    <li><a href="hubungi-kpu.php">Hubungi KPU</a></li>
-                    <li><a href="gemilih-team.php">Gemilih Team</a></li>
-                </ul>
                         </div>
                         <!-- End of Nav Menu -->
                     </div>
-                    
+
                     <!-- Mobile Header Icons -->
                     <div class="lawFirm--mobile-header-icon">
                         <div class="lawFirm--off-canvas-trigger">
@@ -74,7 +69,9 @@
             <!-- About us -->
             <div class="lawFirm--about-in-canvas pt-20 pb-20">
                 <h3 class="pb-20">Mengenai Gemilih</h3>
-                <p class="pb-20">Gemilih (Generasi Milenial Memilih) merupakan projek SEPORA 2020 yang bertujuan untuk mengajak generasi milenial turut ikut serta menggunakan hak pilihnya pada Pilkada Serentak 2020 yang akan dilaksanakan pada 9 Desember 2020 nanti.</p>
+                <p class="pb-20">Gemilih (Generasi Milenial Memilih) merupakan projek SEPORA 2020 yang bertujuan untuk
+                    mengajak generasi milenial turut ikut serta menggunakan hak pilihnya pada Pilkada Serentak 2020 yang
+                    akan dilaksanakan pada 9 Desember 2020 nanti.</p>
                 <a href="gemilih-team.php" class="lawFirm--btn">Contact Us</a>
             </div>
             <!-- End of About us-->
@@ -97,11 +94,12 @@
             <div class="lawFirm--contact-in-canvas ul-default pt-40">
                 <h3 class="pb-20">Kontak Tim Gemilih</h3>
                 <ul>
-                    <li class="pb-20 pl-30"><i class="fa fa-map-marker"></i> Sei Ladi, Jl. Gajah Mada, Baloi Permai, Kec. Sekupang, Kota Batam, Kepulauan Riau 29442</li>
+                    <li class="pb-20 pl-30"><i class="fa fa-map-marker"></i> Sei Ladi, Jl. Gajah Mada, Baloi Permai,
+                        Kec. Sekupang, Kota Batam, Kepulauan Riau 29442</li>
                     <li class="pb-20 pl-30"><i class="fa fa-phone"></i> (0778) 7437111 </li>
                     <li class="pb-20 pl-30"><i class="fa fa-envelope"></i> gemilih_batam@gmail.com </li>
                     <li class="pb-20 pl-30"><a href="https://www.instagram.com/gemilih_batam/" target="_blank"><i
-                                        class="fa fa-instagram"></i></a>gemilih_batam</li>
+                                class="fa fa-instagram"></i></a>gemilih_batam</li>
                 </ul>
             </div>
             <!-- End of Contact Info -->
