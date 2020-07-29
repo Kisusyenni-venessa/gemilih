@@ -170,9 +170,7 @@
 
                         <!-- -->
 
-                        <!-- News Comment -->
-                        <?php include_once("parts/news-comment.php")?>
-                        <!-- End of News Comment -->
+                        
 
                     </div>
                 </div>
