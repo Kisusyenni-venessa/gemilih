@@ -38,7 +38,7 @@
                             <!-- Item 01 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-1.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/kandidat.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -53,8 +53,8 @@
 
                             <!-- Item 01 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                                <h4> <a href="lawyer-details.html">Andrea Anderson</a></h4>
-                                <p>Corporate Law</p>
+                                <h4> <a href="lawyer-details.html">XXXX</a></h4>
+                                <p>Gubernur Kepulauan Riau</p>
                             </div>
                             <!-- End of Item 01 Text -->
                         </div>
@@ -67,7 +67,7 @@
                             <!-- Item 02 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-2.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/kandidat.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -82,8 +82,8 @@
 
                             <!-- Item 02 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                                <h4> <a href="lawyer-details.html">James E. Hartley</a></h4>
-                                <p>Insurance Law</p>
+                                <h4> <a href="lawyer-details.html">XXX</a></h4>
+                                <p>Wakil Gubernur Kepulauan Riau</p>
                             </div>
                             <!-- End of Item 02 Text -->
                         </div>
@@ -100,7 +100,7 @@
                             <!-- Item 01 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-1.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/kandidat.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -115,8 +115,8 @@
 
                             <!-- Item 01 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                                <h4> <a href="lawyer-details.html">Andrea Anderson</a></h4>
-                                <p>Corporate Law</p>
+                                <h4> <a href="lawyer-details.html">XXX</a></h4>
+                                <p>Walikota Batam</p>
                             </div>
                             <!-- End of Item 01 Text -->
                         </div>
@@ -129,7 +129,7 @@
                             <!-- Item 02 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-2.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/kandidat.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -144,8 +144,8 @@
 
                             <!-- Item 02 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                                <h4> <a href="lawyer-details.html">James E. Hartley</a></h4>
-                                <p>Insurance Law</p>
+                                <h4> <a href="lawyer-details.html">XXXX</a></h4>
+                                <p>Wakil Walikota Batam</p>
                             </div>
                             <!-- End of Item 02 Text -->
                         </div>

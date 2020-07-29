@@ -14,8 +14,8 @@
     <!-- Page title -->
     <div class="lawFirm--page-title text-center lawFirm--bg-center" data-bg-img="assets/images/lokasi-img/header-bg.png">
         <div class="container">
-            <h2 class="pb-20">Contact Us</h2>
-            <div class="title-bc"> <a href="index.php">Home</a> > <span>Contact Us </span></div>
+            <h2 class="pb-20">Lokasi TPS Pilkada Batam</h2>
+            <div class="title-bc"> <a href="index.php">Home</a> > <span>Lokasi TPS</span></div>
         </div>
     </div>
     <!-- End of Page title -->

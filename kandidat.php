@@ -14,8 +14,8 @@
     <!-- Page title -->
     <div class="lawFirm--page-title text-center lawFirm--bg-center" data-bg-img="assets/images/lokasi-img/header-bg.png">
         <div class="container">
-            <h2 class="pb-20">Kandidat</h2>
-            <div class="title-bc"> <a href="index.php">Home</a> > <span>Kandidat</span></div>
+            <h2 class="pb-20">Kandidat Pilkada 2020</h2>
+            <div class="title-bc"> <a href="index.php">Home</a> > <span>Kandidat Pilkada</span></div>
         </div>
     </div>
     <!-- End of Page title -->
@@ -32,7 +32,7 @@
                             <!-- Item 01 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-1.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/paslon-01.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -48,7 +48,7 @@
                             <!-- Item 01 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
                                 <h4> <a href="kandidat-1.php">Andrea Anderson & Bentley Davidson</a></h4>
-                                <p>Calon Walikota Batam</p>
+                                <p>Pasangan Calon Walikota Batam</p>
                             </div>
                             <!-- End of Item 01 Text -->
                         </div>
@@ -61,7 +61,7 @@
                             <!-- Item 02 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-2.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/paslon-02.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -76,8 +76,8 @@
 
                             <!-- Item 02 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                                <h4> <a href="lawyer-details.html">James E. Hartley</a></h4>
-                                <p>Insurance Law</p>
+                                <h4> <a href="kandidat-1.php">Andi E. Hartley dan Doni Simanjuntak</a></h4>
+                                <p>Pasangan Calon Walikota Batam</p>
                             </div>
                             <!-- End of Item 02 Text -->
                         </div>
@@ -90,7 +90,7 @@
                             <!-- Item 03 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-3.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/paslon-03.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -105,8 +105,8 @@
 
                             <!-- Item 03 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                                <h4> <a href="lawyer-details.html">Kyle Gray</a></h4>
-                                <p>Environment Law</p>
+                                <h4> <a href="kandidat-1.php">Kyle Gray dan Runi Setiawan</a></h4>
+                                <p>Pasangan Calon Walikota Batam</p>
                             </div>
                             <!-- End of Item 03 Text -->
                         </div>
@@ -119,7 +119,7 @@
                             <!-- Item 04 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-4.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/paslon-04.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -134,8 +134,8 @@
 
                             <!-- Item 04 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                                <h4> <a href="lawyer-details.html">Laura S. Hundley</a></h4>
-                                <p>Corporate Law</p>
+                                <h4> <a href="kandidat-1.php">Laura S. Hundley dan Amanda Seruni</a></h4>
+                                <p>Pasangan Calon Walikota Batam</p>
                             </div>
                             <!-- End of Item 04 Text -->
                         </div>
@@ -148,7 +148,7 @@
                             <!-- Item 05 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-5.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/paslon-01.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -163,8 +163,8 @@
 
                             <!-- Item 05 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                                <h4> <a href="lawyer-details.html">Adrian Cartwright</a></h4>
-                                <p>Business Law</p>
+                                <h4> <a href="kandidat-1.php">Adrian Cartwright dan Amir Budiono</a></h4>
+                                <p>Pasangan Calon Gubernur Kepulauan Riau</p>
                             </div>
                             <!-- End of Item 05 Text -->
                         </div>
@@ -177,7 +177,7 @@
                             <!-- Item 06 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-6.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/paslon-02.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -192,8 +192,8 @@
 
                             <!-- Item 06 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                                <h4> <a href="lawyer-details.html">Mike Taylor</a></h4>
-                                <p>Corporate Law</p>
+                                <h4> <a href="kandidat-1.php">Mike Taylor dan Henry Louis</a></h4>
+                                <p>Pasangan Calon Gubernur Kepulauan Riau</p>
                             </div>
                             <!-- End of Item 06 Text -->
                         </div>
@@ -206,7 +206,7 @@
                             <!-- Item 07 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-7.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/paslon-03.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -221,8 +221,8 @@
 
                             <!-- Item 07 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                                <h4> <a href="lawyer-details.html">Robert Leeb</a></h4>
-                                <p>Real State Law</p>
+                                <h4> <a href="kandidat-1.php">Robert Leeb dan Cahaya Putri</a></h4>
+                                <p>Pasangan Calon Gubernur Kepulauan Riau</p>
                             </div>
                             <!-- End of Item 07 Text -->
                         </div>
@@ -235,7 +235,7 @@
                             <!-- Item 08 Image -->
                             <div class="lawFirm--team-slider-item-image">
                                 <!-- Image -->
-                                <img src="assets/images/team-images/person-8.jpg" alt="" class="img-fluid" data-rjs="2">
+                                <img src="assets/images/kandidat-img/paslon-04.png" alt="" class="img-fluid" data-rjs="2">
                                 <!-- End of Image -->
                                 <!-- Social Links-->
                                 <div class="social-links">
@@ -250,8 +250,8 @@
 
                             <!-- Item 08 Text-->
                             <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                                <h4> <a href="lawyer-details.html">Aline Cardin</a></h4>
-                                <p>Family Law</p>
+                                <h4> <a href="kandidat-1.php">Aline Cardin dan Chandra Joni</a></h4>
+                                <p>Pasangan Calon Gubernur Kepulauan Riau</p>
                             </div>
                             <!-- End of Item 08 Text -->
                         </div>

@@ -25,16 +25,22 @@
                                         <li><a href="peraturan-pilkada.php">Peraturan Pilkada</a></li>
                                         <li><a href="kalender-pilkada.php">Kalender Pilkada</a></li>
                                         <li><a href="lokasi-tps.php">Lokasi TPS</a></li>
+                                        <li><a href="hubungi-kpu.php">Hubungi KPU</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="kandidat.php">Kandidat</a></li>
+                                <li class="menu-item-has-children"><a>Kandidat</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="kandidat.php">Kandidat Pilkada</a></li>
+                                        <li><a href="kandidat-belum-ada.php">Kandidat (Belum Ada)</a></li>
+                                    </ul>
+                                </li>
                                 <li class="menu-item-has-children"><a>Hasil Pilkada</a>
                                     <ul class="sub-menu">
                                         <li><a href="hasil-pilkada.php">Hasil Pilkada</a></li>
                                         <li><a href="hasil-pilkada-belum-ada.php">Hasil Pilkada (Belum Ada)</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="hubungi-kpu.php">Hubungi KPU</a></li>
+                                <li><a href="news.php">Berita</a></li>
                                 <li><a href="gemilih-team.php">Gemilih Team</a></li>
                             </ul>
                         </div>
