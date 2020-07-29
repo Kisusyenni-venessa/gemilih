@@ -17,7 +17,7 @@
         data-bg-img="assets/images/lokasi-img/header-bg.png">
         <div class="container">
             <h2 class="pb-20">Peraturan Pilkada</h2>
-            <div class="title-bc"> <a href="#">Home</a> > <span>Peraturan Pilkada</span></div>
+            <div class="title-bc"> <a href="index.php">Home</a> > <span>Peraturan Pilkada</span></div>
         </div>
     </div>
     <!-- End of Page title -->
@@ -32,14 +32,14 @@
                     <div class="lawFirm--practice-area-item mb-30">
                         <!-- Practice Item Image -->
                         <div class="lawFirm--practice-area-image">
-                            <a href="#"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
+                            <a href="https://jdih.kpu.go.id/data/data_pkpu/PKPU%2015%20THN%202019.pdf" target="_blank"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
                                     data-rjs="2"></a>
                         </div>
                         <!-- End of Practice Item Image -->
 
                         <!-- Practice Item Text -->
                         <div class="lawFirm--practice-area-text pt-30 pr-20 pb-30 pl-30">
-                            <h2 class="mb-20"><a href="#">Peraturan Komisi Pemilihan Umum Nomor 15 Tahun 2019</a></h2>
+                            <h2 class="mb-20"><a href="https://jdih.kpu.go.id/data/data_pkpu/PKPU%2015%20THN%202019.pdf" target="_blank">Peraturan Komisi Pemilihan Umum Nomor 15 Tahun 2019</a></h2>
                             <p>Tahapan, Program dan Jadwal Penyelenggaraan Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, dan/atau Wali Kota dan Wakil Wali Kota Tahun 2020</p>
                         </div>
                         <!-- End of Practice Item Text -->
@@ -52,14 +52,14 @@
                     <div class="lawFirm--practice-area-item mb-30">
                         <!-- Practice Item Image -->
                         <div class="lawFirm--practice-area-image">
-                            <a href="#"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
+                            <a href="https://jdih.kpu.go.id/data/data_tematik/UU_Nomor_10_Tahun_2016.pdf" target="_blank"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
                                     data-rjs="2"></a>
                         </div>
                         <!-- End of Practice Item Image -->
 
                         <!-- Practice Item Text -->
                         <div class="lawFirm--practice-area-text pt-30 pr-20 pb-30 pl-30">
-                            <h2 class="mb-20"> <a href="#"> Undang-Undang Republik Indonesia Nomor 10 Tahun 2016</a></h2>
+                            <h2 class="mb-20"> <a href="https://jdih.kpu.go.id/data/data_tematik/UU_Nomor_10_Tahun_2016.pdf" target="_blank"> Undang-Undang Republik Indonesia Nomor 10 Tahun 2016</a></h2>
                             <p>Perubahan Kedua Atas Undang-Undang Nomor 1 Tahun 2015 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 Tentang Pemilihan Gubernur, Bupati, dan Waikota Menjadi Undang-Undang</p>
                         </div>
                         <!-- End of Practice Item Text -->
@@ -72,14 +72,14 @@
                     <div class="lawFirm--practice-area-item mb-30">
                         <!-- Practice Item Image -->
                         <div class="lawFirm--practice-area-image">
-                            <a href="#"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
+                            <a href="https://jdih.kpu.go.id/data/data_pkpu/PKPU%2015%202017%20upload.pdf" target="_blank"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
                                     data-rjs="2"></a>
                         </div>
                         <!-- End of Practice Item Image -->
 
                         <!-- Practice Item Text -->
                         <div class="lawFirm--practice-area-text pt-30 pr-20 pb-30 pl-30">
-                            <h2 class="mb-20"> <a href="#">Peraturan Komisi Pemilihan Umum Nomor 15 Tahun 2017</a></h2>
+                            <h2 class="mb-20"> <a href="https://jdih.kpu.go.id/data/data_pkpu/PKPU%2015%202017%20upload.pdf" target="_blank">Peraturan Komisi Pemilihan Umum Nomor 15 Tahun 2017</a></h2>
                             <p>Perubahan atas Peraturan Komisi Pemilihan Umum Nomor 3 Tahun 2017 tentang Pencalonan Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, dan/atau Walikota dan Wakil Walikota</p>
                         </div>
                         <!-- End of Practice Item Text -->
@@ -92,14 +92,14 @@
                     <div class="lawFirm--practice-area-item mb-30">
                         <!-- Practice Item Image -->
                         <div class="lawFirm--practice-area-image">
-                            <a href="#"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
+                            <a href="https://jdih.kpu.go.id/data/data_pkpu/PKPU%203%202017_UPLOAD.pdf" target="_blank"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
                                     data-rjs="2"></a>
                         </div>
                         <!-- End of Practice Item Image -->
 
                         <!-- Practice Item Text -->
                         <div class="lawFirm--practice-area-text pt-30 pr-20 pb-30 pl-30">
-                            <h2 class="mb-20"> <a href="#">	Peraturan Komisi Pemilihan Umum Nomor 3 Tahun 2017</a></h2>
+                            <h2 class="mb-20"> <a href="https://jdih.kpu.go.id/data/data_pkpu/PKPU%203%202017_UPLOAD.pdf" target="_blank">	Peraturan Komisi Pemilihan Umum Nomor 3 Tahun 2017</a></h2>
                             <p>Pencalonan Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, dan/atau Walikota dan Wakil Walikota</p>
                         </div>
                         <!-- End of Practice Item Text -->
@@ -112,14 +112,14 @@
                     <div class="lawFirm--practice-area-item mb-30">
                         <!-- Practice Item Image -->
                         <div class="lawFirm--practice-area-image">
-                            <a href="#"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
+                            <a href="https://jdih.kpu.go.id/data/data_tematik/keppres_no.25_thn_2015.pdf" target="_blank"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
                                     data-rjs="2"></a>
                         </div>
                         <!-- End of Practice Item Image -->
 
                         <!-- Practice Item Text -->
                         <div class="lawFirm--practice-area-text pt-30 pr-20 pb-30 pl-30">
-                            <h2 class="mb-20"> <a href="#">KEPPRES Nomor : 25 TAHUN 2015</a> </h2>
+                            <h2 class="mb-20"> <a href="https://jdih.kpu.go.id/data/data_tematik/keppres_no.25_thn_2015.pdf" target="_blank">KEPPRES Nomor : 25 TAHUN 2015</a> </h2>
                             <p>Hari Pemungutan Suara Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati serta Walikota dan Wakil Walikota Tahun 2015 Sebagai Hari Libur Nasional</p>
                         </div>
                         <!-- End of Practice Item Text -->
@@ -132,14 +132,14 @@
                     <div class="lawFirm--practice-area-item mb-30">
                         <!-- Practice Item Image -->
                         <div class="lawFirm--practice-area-image">
-                            <a href="#"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
+                            <a href="https://jdih.kpu.go.id/data/data_tematik/PMK%20NOMOR%202%20TAHUN%202015.pdf" target="_blank"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
                                     data-rjs="2"></a>
                         </div>
                         <!-- End of Practice Item Image -->
 
                         <!-- Practice Item Text -->
                         <div class="lawFirm--practice-area-text pt-30 pr-20 pb-30 pl-30">
-                            <h2 class="mb-20"> <a href="#">	Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2015</a> </h2>
+                            <h2 class="mb-20"> <a href="https://jdih.kpu.go.id/data/data_tematik/PMK%20NOMOR%202%20TAHUN%202015.pdf" target="_blank">	Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2015</a> </h2>
                             <p>Tahapan, Kegiatan dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati dan Walikota</p>
                         </div>
                         <!-- End of Practice Item Text -->
@@ -152,14 +152,14 @@
                     <div class="lawFirm--practice-area-item mb-30">
                         <!-- Practice Item Image -->
                         <div class="lawFirm--practice-area-image">
-                            <a href="#"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
+                            <a href="https://jdih.kpu.go.id/data/data_tematik/PMK%20NOMOR%201%20TAHUN%202015.pdf" target="_blank"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
                                     data-rjs="2"></a>
                         </div>
                         <!-- End of Practice Item Image -->
 
                         <!-- Practice Item Text -->
                         <div class="lawFirm--practice-area-text pt-30 pr-20 pb-30 pl-30">
-                            <h2 class="mb-20"> <a href="#">Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2015</a> </h2>
+                            <h2 class="mb-20"> <a href="https://jdih.kpu.go.id/data/data_tematik/PMK%20NOMOR%201%20TAHUN%202015.pdf" target="_blank">Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2015</a> </h2>
                             <p>Pedoman Beracara Dalam Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati dan Wakil Walikota</p>
                         </div>
                         <!-- End of Practice Item Text -->
@@ -171,14 +171,14 @@
                     <div class="lawFirm--practice-area-item mb-30">
                         <!-- Practice Item Image -->
                         <div class="lawFirm--practice-area-image">
-                            <a href="#"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
+                            <a href="https://jdih.kpu.go.id/data/data_tematik/Permendagri%20No.51%20TH%202015.pdf" target="_blank"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
                                     data-rjs="2"></a>
                         </div>
                         <!-- End of Practice Item Image -->
 
                         <!-- Practice Item Text -->
                         <div class="lawFirm--practice-area-text pt-30 pr-20 pb-30 pl-30">
-                            <h2 class="mb-20"> <a href="#">PERMENDAGRI Nomor 51 Tahun 2015</a> </h2>
+                            <h2 class="mb-20"> <a href="https://jdih.kpu.go.id/data/data_tematik/Permendagri%20No.51%20TH%202015.pdf" target="_blank">PERMENDAGRI Nomor 51 Tahun 2015</a> </h2>
                             <p>Perubahan Atas Peraturan Menteri Dalam Negeri Nomor 44 Tahun 2015 Tentang Pengelolaan Dana Kegiatan Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota</p>
                         </div>
                         <!-- End of Practice Item Text -->
@@ -190,14 +190,14 @@
                     <div class="lawFirm--practice-area-item mb-30">
                         <!-- Practice Item Image -->
                         <div class="lawFirm--practice-area-image">
-                            <a href="#"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
+                            <a href="https://jdih.kpu.go.id/data/data_tematik/Permendagri%20No.44%20TH%202015.pdf" target="_blank"><img src="assets/images/peraturan/peraturan.jpg" alt="" class="img-fluid"
                                     data-rjs="2"></a>
                         </div>
                         <!-- End of Practice Item Image -->
 
                         <!-- Practice Item Text -->
                         <div class="lawFirm--practice-area-text pt-30 pr-20 pb-30 pl-30">
-                            <h2 class="mb-20"> <a href="#">PERMENDAGRI Nomor 44 Tahun 2015</a> </h2>
+                            <h2 class="mb-20"> <a href="https://jdih.kpu.go.id/data/data_tematik/Permendagri%20No.44%20TH%202015.pdf" target="_blank">PERMENDAGRI Nomor 44 Tahun 2015</a> </h2>
                             <p>Pengelolaan Dana Kegiatan Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota</p>
                         </div>
                         <!-- End of Practice Item Text -->

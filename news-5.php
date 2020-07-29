@@ -37,9 +37,6 @@
                             <!-- Post Meta Info -->
                             <div class="post-meta-info">
                                 <!-- Category -->
-                                <!-- <p class="cats">
-                                    <a href="#">Berita</a>
-                                </p> -->
                                 <!-- Title -->
                                 <div class="title">
                                     <h2>Halau Klaster KPU Batam, Wali Kota Teken Kerja Sama Protokol Kesehatan, Sekda Saran Usia Energik</h2>
@@ -51,9 +48,8 @@
                                             class="img-fluid" data-rjs="2">
                                         <a href="https://batam.tribunnews.com">TribunBatam</a>
                                     </li>
-                                    <li class="meta-date"><a href="#">Kamis, 9 Juli 2020 19:55 WIB</a></li>
+                                    <li class="meta-date"><a href="news-5.php">Kamis, 9 Juli 2020 19:55 WIB</a></li>
                                     <li> 2 min read </li>
-                                    <li class="meta-comments"><a href="#"><i class="fa fa-comment"></i> 2</a></li>
                                 </ul>
                             </div>
                             <!-- End of Post Meta Info -->
@@ -198,28 +194,7 @@
                         </div>
                         <!-- End of Tags -->
 
-                        <!-- Author Box -->
-                        <!-- <div class="post-about-author-box">
-                            <div class="author-avatar">
-                                <img src="assets/images/blog-images/author.jpg" alt="" class="img-fluid" data-rjs="2">
-                            </div>
-                            <div class="author-desc">
-                                <h5> <a href="#">Yuniati Jannatun Naim</a> </h5>
-                                <div class="description">
-                                    On recommend tolerably my belonging or am. Mutual has cannot beauty indeed now
-                                    sussex merely you. It possible no husbands jennings ye offended packages pleasant
-                                    he.
-                                </div>
-                                <div class="social-icons">
-                                    <a href="https://wwww.facebook.com"><i class="fa fa-facebook"></i></a>
-                                    <a href="https://wwww.twitter.com"><i class="fa fa-twitter"></i></a>
-                                    <a href="https://wwww.instagram.com"><i class="fa fa-instagram"></i></a>
-                                    <a href="https://wwww.pinterest.com"><i class="fa fa-pinterest"></i></a>
-                                    <a href="https://wwww.linkedin.com"><i class="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div> -->
-                        <!-- End of Author Box -->
+                        <!-- -->
 
                         <!-- News Comment -->
                         <?php include_once("parts/news-comment.php")?>

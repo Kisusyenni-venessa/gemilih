@@ -15,7 +15,7 @@
     <div class="lawFirm--page-title text-center lawFirm--bg-center" data-bg-img="assets/images/lokasi-img/header-bg.png">
         <div class="container">
             <h2 class="pb-20">Kandidat 1</h2>
-            <div class="title-bc"> <a href="#">Home</a> > <span> Kandidat 1 </span></div>
+            <div class="title-bc"> <a href="index.php">Home</a> > <span> Kandidat 1 </span></div>
         </div>
     </div>
     <!-- End of Page title -->

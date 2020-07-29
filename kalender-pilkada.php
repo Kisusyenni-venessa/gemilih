@@ -17,7 +17,7 @@
         data-bg-img="assets/images/lokasi-img/header-bg.png">
         <div class="container">
             <h2 class="pb-20">Kalender Pilkada 2020</h2>
-            <div class="title-bc"> <a href="#">Home</a> > <span>Kalender</span></div>
+            <div class="title-bc"> <a href="index.php">Home</a> > <span>Kalender</span></div>
         </div>
     </div>
     <!-- End of Page title -->

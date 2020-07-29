@@ -15,7 +15,7 @@
     <div class="lawFirm--page-title text-center lawFirm--bg-center" data-bg-img="assets/images/lokasi-img/header-bg.png">
         <div class="container">
             <h2 class="pb-20">Hubungi Kami</h2>
-            <div class="title-bc"> <a href="#">Beranda</a> > <span>Hubungi Kami</span></div>
+            <div class="title-bc"> <a href="index.php">Home</a> > <span>Hubungi Kami</span></div>
         </div>
     </div>
     <!-- End of Page title -->

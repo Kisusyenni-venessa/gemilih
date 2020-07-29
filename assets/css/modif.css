@@ -35,6 +35,9 @@ font-family: 'Open Sans', sans-serif; --> text
 .lawFirm--w-process-items .lawFirm--acc-item .expand-area ul li {
     margin-left: 5px;
 }
+.lawFirm--banner-slider-social-icons a {
+    width: auto;
+}
 
 /* Lokasi TPS */
 .nice-select .list {

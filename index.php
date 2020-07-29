@@ -27,7 +27,7 @@
                                 <div class="lawFirm--banner-slider-item-text">
                                     <h2>Pilkada Serentak 2020</h2>
                                     <h1>Ayo Bersama Sama Sukseskan Pilkada 2020</h1>
-                                    <a href="#" class="lawFirm--btn mt-50"> Baca Selengkapnya </a>
+                                    <a href="tahapan-pilkada.php" class="lawFirm--btn mt-50"> Baca Selengkapnya </a>
                                 </div>
                                 <!-- End of Banner Slider Item 01 Text -->
                             </div>
@@ -44,10 +44,7 @@
                     </div>
                     <!-- Item 01 Social Icons -->
                     <div class="lawFirm--banner-slider-social-icons">
-                        <a href="#"><i class="fa fa-facebook-f"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-linkedin"></i></a>
-                        <a href="#"><i class="fa fa-youtube"></i></a>
+                        <a href="https://www.instagram.com/gemilih_batam/" target="_blank"><i class="fa fa-instagram"></i> Gemilih Batam Instagram</a>
                     </div>
                     <!-- End of Item 01 Social Icons -->
 
@@ -79,10 +76,7 @@
 
                             <!-- Item 02 Social Icons -->
                             <div class="lawFirm--banner-slider-social-icons">
-                                <a href="#"><i class="fa fa-facebook-f"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
+                                <a href="https://www.instagram.com/gemilih_batam/" target="_blank"><i class="fa fa-instagram"></i> Gemilih Batam Instagram</a>
                             </div>
                             <!-- End of Item 02 Social Icons -->
                         </div>
@@ -743,7 +737,7 @@
                     <div class="lawFirm--blog-slider-item-text">
                         <ul class="pt-30 pb-15">
                             <li>by <a href="https://batam.tribunnews.com">TribunBatam.id</a></li>
-                            <li><a href="#">Minggu, 28 Juni 2020 16:32 WIB</a></li>
+                            <li><a href="news-2.php">Minggu, 28 Juni 2020 16:32 WIB</a></li>
                         </ul>
                         <h2> <a href="news-2.php">KPU Batam Verifikasi Faktual Dukungan Rian Ernest-Yusiani
                                 Gurusinga</a> </h2>
@@ -764,8 +758,8 @@
                     <!-- Slider Item Text -->
                     <div class="lawFirm--blog-slider-item-text">
                         <ul class="pt-30 pb-15">
-                            <li>by <a href="#">Bisnis.com</a></li>
-                            <li><a href="#">Kamis, 02 Juli 2020 16:24 WIB</a></li>
+                            <li>by <a href="https://www.bisnis.com/">Bisnis.com</a></li>
+                            <li><a href="news-3.php">Kamis, 02 Juli 2020 16:24 WIB</a></li>
                         </ul>
                         <h2> <a href="news-3.php">KPU Kota Batam dapat Tambahan Anggaran Pilkada Rp 1,5 Miliar</a> </h2>
                     </div>
@@ -786,7 +780,7 @@
                     <div class="lawFirm--blog-slider-item-text">
                         <ul class="pt-30 pb-15">
                             <li>by <a href="https://batam.tribunnews.com">TribunBatam</a></li>
-                            <li><a href="#">Selasa, 30 Juni 2020 09:44 WIB</a></li>
+                            <li><a href="news-4.php">Selasa, 30 Juni 2020 09:44 WIB</a></li>
                         </ul>
                         <h2> <a href="news-4.php">JELANG Pilkada Serentak, KPU Batam Rekrut 2.222 Petugas Pemutakhiran
                                 Data Pemilu</a> </h2>
@@ -877,9 +871,6 @@
                                 <span><i class="fa fa-globe"></i> Ikuti Sosial Media Kami </span>
                                 <a href="https://www.instagram.com/gemilih_batam/" target="_blank"><i
                                         class="fa fa-instagram"></i>gemilih_batam</a>
-                                <!-- <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a> -->
                             </div>
                             <!-- End of Social Links -->
                         </div>
