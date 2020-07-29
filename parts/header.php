@@ -86,7 +86,7 @@
             <div class="lawFirm--sub-form-in-canvas pt-40 pb-20">
                 <h3 class="pb-20">Subscribe Our News Letter</h3>
                 <form
-                    action="https://themelooks.us13.list-manage.com/subscribe/post?u=79f0b132ec25ee223bb41835f&amp;id=f4e0e93d1d"
+                    action=""
                     method="post" novalidate class="canvas-search-form input-group mb-3">
                     <input type="text" class="form-control lawFirm--input-style" placeholder="Type Your Email" required>
                     <div class="input-group-append">
