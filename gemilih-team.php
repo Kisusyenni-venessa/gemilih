@@ -46,10 +46,7 @@
                         <!-- End of Image -->
                         <!-- Social Links-->
                         <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/yohanajuwita" target="_blank"><i class="fa fa-instagram"></i></a>
                         </div>
                         <!-- End of Social Links-->
                     </div>
@@ -57,7 +54,7 @@
                     
                     <!-- Item 01 Text-->
                     <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Yohana Juwitasari </a></h4>
+                        <h4> <a href=""> Yohana Juwitasari </a></h4>
                         <p>1941323</p>
                     </div>
                     <!-- End of Item 01 Text -->
@@ -73,10 +70,7 @@
                         <!-- End of Image -->
                         <!-- Social Links-->
                         <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/tomyyap_" target="_blank"><i class="fa fa-instagram"></i></a>
                         </div>
                         <!-- End of Social Links-->
                     </div>
@@ -84,7 +78,7 @@
                     
                     <!-- Item 02 Text-->
                     <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Tomy </a> </h4>
+                        <h4> <a href=""> Tomy </a> </h4>
                         <p>1931066</p>
                     </div>
                     <!-- End of Item 02 Text -->
@@ -100,10 +94,7 @@
                         <!-- End of Image -->
                         <!-- Social Links-->
                         <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/steven_lim23" target="_blank"><i class="fa fa-instagram"></i></a>
                         </div>
                         <!-- End of Social Links-->
                     </div>
@@ -111,7 +102,7 @@
                     
                     <!-- Item 03 Text-->
                     <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Steven Salim </a> </h4>
+                        <h4> <a href=""> Steven Salim </a> </h4>
                         <p>1931144</p>
                     </div>
                     <!-- End of Item 03 Text -->
@@ -127,10 +118,7 @@
                         <!-- End of Image -->
                         <!-- Social Links-->
                         <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/kisusyenni2904" target="_blank"><i class="fa fa-instagram"></i></a>
                         </div>
                         <!-- End of Social Links-->
                     </div>
@@ -138,7 +126,7 @@
                     
                     <!-- Item 04 Text-->
                     <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Kisusyenni Venessa </a> </h4>
+                        <h4> <a href=""> Kisusyenni Venessa </a> </h4>
                         <p>1931150</p>
                     </div>
                     <!-- End of Item 04 Text -->
@@ -154,10 +142,7 @@
                         <!-- End of Image -->
                         <!-- Social Links-->
                         <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/_hnyyc" target="_blank"><i class="fa fa-instagram"></i></a>
                         </div>
                         <!-- End of Social Links-->
                     </div>
@@ -165,7 +150,7 @@
                     
                     <!-- Item 05 Text-->
                     <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Henny </a> </h4>
+                        <h4> <a href=""> Henny </a> </h4>
                         <p>1941307</p>
                     </div>
                     <!-- End of Item 05 Text -->
@@ -181,10 +166,7 @@
                         <!-- End of Image -->
                         <!-- Social Links-->
                         <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/Alicechee_" target="_blank"><i class="fa fa-instagram"></i></a>
                         </div>
                         <!-- End of Social Links-->
                     </div>
@@ -192,7 +174,7 @@
                     
                     <!-- Item 06 Text-->
                     <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Alice </a> </h4>
+                        <h4> <a href=""> Alice </a> </h4>
                         <p>1941353</p>
                     </div>
                     <!-- End of Item 06 Text -->
@@ -208,10 +190,7 @@
                         <!-- End of Image -->
                         <!-- Social Links-->
                         <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/viennalin17" target="_blank"><i class="fa fa-instagram"></i></a>
                         </div>
                         <!-- End of Social Links-->
                     </div>
@@ -219,7 +198,7 @@
                     
                     <!-- Item 07 Text-->
                     <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Vienna Tanisya </a> </h4>
+                        <h4> <a href="" target="_blank"> Vienna Tanisya </a> </h4>
                         <p>1942184</p>
                     </div>
                     <!-- End of Item 07 Text -->
@@ -235,10 +214,7 @@
                         <!-- End of Image -->
                         <!-- Social Links-->
                         <div class="social-links">
-                            <a href=""><i class="fa fa-facebook-f"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
-                            <a href=""><i class="fa fa-linkedin"></i></a>
-                            <a href=""><i class="fa fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/angel_tng" target="_blank"><i class="fa fa-instagram"></i></a>
                         </div>
                         <!-- End of Social Links-->
                     </div>
@@ -246,7 +222,7 @@
                     
                     <!-- Item 08 Text-->
                     <div class="lawFirm--team-slider-item-text text-center pt-25 pb-30">
-                        <h4> <a href="lawyer-details.html"> Angel Tng </a></h4>
+                        <h4> <a href=""> Angel Tng </a></h4>
                         <p>1951010</p>
                     </div>
                     <!-- End of Item 08 Text -->
@@ -257,172 +233,7 @@
     </div>
     <!-- End of Team -->
 
-    <!-- Contact -->
-    <!-- <div class="lawFirm--contact pt-120 pb-120 lawFirm--right-back-circle">
-        <div class="container">
-            <div class="lawFirm--section-title text-left">
-                <h2> Let Us Know What’s Your <br> Problem <span></span></h2>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-5 pb-30">
-                    <ul class="nav nav-pills">
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">New York Office</a>
-                            <div class="dropdown-menu">
-
-                                <a class="nav-link" id="new-york-area" data-toggle="tab" href="#new-york" aria-expanded="true" aria-controls="new-york">New York</a>
-
-                                <a class="nav-link" id="hong-kong-area" data-toggle="tab" href="#hong-kong" aria-expanded="false" aria-controls="hong-kong">Hong Kong</a>
-                                
-                                <a class="nav-link" id="chicago-area" data-toggle="tab" href="#chicago" aria-expanded="false" aria-controls="chicago">Chicago</a>
-                            </div>
-                        </li>
-                    </ul> -->
-
-                    <!-- <div class="tab-content" id="myTabContent"> -->
-                        <!-- New York -->
-                        <!-- <div class="tab-pane fade show active" id="new-york" role="tabpanel" aria-labelledby="new-york-area">
-                            <ul class="lawFirm--conact-options">
-                                <li class="mb-10">
-                                    <i class="fa fa-map-marker"></i> 
-                                    <strong> Address </strong>
-                                    <p>3173 Forest Avenue New York 10013 United States</p>
-                                </li>
-                                <li class="mb-10">
-                                    <i class="fa fa-phone"></i> 
-                                    <strong> Phone </strong>
-                                    <p>+1212-446-4400  &  +1212-446-8800</p>
-                                </li>
-                                <li class="mb-10">
-                                    <i class="fa fa-envelope"></i> 
-                                    <strong> Email </strong> 
-                                    <p>youremail@mailcom  &  info@gmail.com</p>
-                                </li>
-                            </ul> -->
-                            <!-- End of Contact Options -->
-
-                            <!-- Social Links -->
-                            <!-- <div class="lawFirm--contact-social-links">
-                                <span><i class="fa fa-globe"></i> Follow us </span>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
-                            </div> -->
-                            <!-- End of Social Links -->
-                        <!-- </div> -->
-                        <!-- End of New York -->
-
-                        <!-- Hong Kong -->
-                        <!-- <div class="tab-pane" id="hong-kong" role="tabpanel" aria-labelledby="hong-kong-area">
-                            <ul class="lawFirm--conact-options">
-                                <li class="mb-10">
-                                    <i class="fa fa-map-marker"></i> 
-                                    <strong> Address </strong>
-                                    <p>Larch Street Tai Kok Tsui Kowloon 852 Hong Kong</p>
-                                </li>
-                                <li class="mb-10">
-                                    <i class="fa fa-phone"></i> 
-                                    <strong> Phone </strong>
-                                    <p>+1212-446-4400  &  +1212-446-8800</p>
-                                </li>
-                                <li class="mb-10">
-                                    <i class="fa fa-envelope"></i> 
-                                    <strong> Email </strong> 
-                                    <p>youremail@mailcom  &  info@gmail.com</p>
-                                </li>
-                            </ul> -->
-                            <!-- End of Contact Options -->
-
-                            <!-- Social Links -->
-                            <!-- <div class="lawFirm--contact-social-links">
-                                <span><i class="fa fa-globe"></i> Follow us </span>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
-                            </div> -->
-                            <!-- End of Social Links -->
-                        <!-- </div> -->
-                        <!-- End of Hong Kong -->
-
-                        <!-- Chicago -->
-                        <!-- <div class="tab-pane" id="chicago" role="tabpanel" aria-labelledby="chicago-area"> -->
-                            <!-- Contact Options -->
-                            <!-- <ul class="lawFirm--conact-options">
-                                <li class="mb-10">
-                                    <i class="fa fa-map-marker"></i> 
-                                    <strong> Address </strong>
-                                    <p>295 Rebecca Street Chicago 2099 United States</p>
-                                </li>
-                                <li class="mb-10">
-                                    <i class="fa fa-phone"></i> 
-                                    <strong> Phone </strong>
-                                    <p>+1212-446-4400  &  +1212-446-8800</p>
-                                </li>
-                                <li class="mb-10">
-                                    <i class="fa fa-envelope"></i> 
-                                    <strong> Email </strong> 
-                                    <p>youremail@mailcom  &  info@gmail.com</p>
-                                </li>
-                            </ul> -->
-                            <!-- End of Contact Options -->
-
-                            <!-- Social Links -->
-                            <!-- <div class="lawFirm--contact-social-links">
-                                <span><i class="fa fa-globe"></i> Follow us </span>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
-                            </div> -->
-                            <!-- End of Social Links -->
-                        <!-- </div> -->
-                        <!-- End of Chicago -->
-                    <!-- </div> -->
-                <!-- </div> -->
-
-                <!-- <div class="col-lg-6 offset-lg-1"> -->
-                    <!-- Contact Form -->
-                    <!-- <div class="lawFirm--contact-form no-gutters">
-                        <form action="sendmail.php" method="post">
-                            <div class="row">
-                                <div class="col-md-6"> -->
-                                    <!-- Name -->
-                                    <!-- <input type="text" name="name" class="form-control" placeholder="Name" required>
-                                </div> -->
-                                <!-- <div class="col-md-6"> -->
-                                    <!-- Phone Number -->
-                                    <!-- <input type="text" name="phone" class="form-control" placeholder="Phone Number" required>
-                                </div>
-                                <div class="col-md-6"> -->
-                                    <!-- Email Address -->
-                                    <!-- <input type="email" name="email" class="form-control" placeholder="Email Address" required>
-                                </div>
-                                <div class="col-md-6"> -->
-                                    <!-- Subject -->
-                                    <!-- <input type="text" name="subject" class="form-control" placeholder="Subject" required>
-                                </div>
-                                <div class="col-md-12"> -->
-                                    <!-- Message Area -->
-                                    <!-- <textarea class="form-control" name="message" placeholder="Message" required></textarea>
-                                </div>
-                                <div class="col-md-12"> -->
-                                    <!-- Send Button -->
-                                    <!-- <button class="btn" type="submit"> Send Message </button>
-                                </div>
-                            </div>
-                        </form> -->
-                        <!-- <div class="form-response"></div>
-                    </div> -->
-                    <!-- End of Contact Form -->
-                <!-- </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- End of Contact -->
-
+    
     <!-- Start Map -->
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.0602735076!2d104.00259228701313!3d1.1169043081519625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d98be09646b351%3A0x36a826082690c786!2sUniversitas%20Internasional%20Batam!5e0!3m2!1sid!2sid!4v1594884564260!5m2!1sid!2sid" width="1903" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     <!-- <div id="map" data-map-latitude="40.712776" data-map-longitude="-74.005974" data-map-zoom="5"
